@@ -1,0 +1,45 @@
+name: Flutter安卓APK自动打包
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build_android:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取仓库全部代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 配置JDK17
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: 安装Flutter稳定版
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.24.0'
+          channel: stable
+          cache: false
+
+      - name: 打印目录调试信息
+        run: |
+          pwd
+          ls -la
+          if [ -f pubspec.yaml ]; then echo "✅ 根目录存在pubspec.yaml"; else echo "❌ 缺失配置文件"; fi
+
+      - name: 安装项目依赖
+        run: flutter pub get
+
+      - name: 编译Release安装包
+        run: flutter build apk --release
+
+      - name: 上传成品APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: 屏幕翻译APP安装包
+          path: build/app/outputs/flutter-apk/app-release.apk
