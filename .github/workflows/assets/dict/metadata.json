@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "version": "3.1",
+    "total_entries": 2506,
+    "breakdown": {
+      "cet6_vocabulary.json": 175,
+      "cet6_vocabulary_ac.json": 219,
+      "cet6_vocabulary_df.json": 220,
+      "cet6_vocabulary_gi.json": 204,
+      "cet6_vocabulary_jl.json": 107,
+      "cet6_vocabulary_mo.json": 165,
+      "cet6_vocabulary_pr.json": 509,
+      "cet6_vocabulary_su.json": 251,
+      "cet6_vocabulary_vz.json": 189,
+      "cet6_vocabulary_dz.json": 164,
+      "cet6_phrases.json": 303
+    },
+    "coverage": [
+      "CET-6六级完整核心词汇(A-Z全覆盖)",
+      "CET-6高频短语固定搭配",
+      "六级真题常考词义",
+      "CET-4四级词汇",
+      "高中进阶词汇",
+      "初中核心词汇",
+      "小学基础词汇"
+    ],
+    "features": [
+      "多释义支持",
+      "词性标注",
+      "六级专用例句",
+      "高频短语固定搭配",
+      "断网完整查询",
+      "异步分片加载",
+      "低内存占用",
+      "A-Z字母全覆盖",
+      "按字母分片优化加载"
+    ],
+    "last_updated": "2026-06-26",
+    "note": "v3.1版本实现CET-6六级核心词汇A-Z全覆盖，总计2506个词条，按字母分片存储优化加载性能"
+  },
+  "format": "json",
+  "description": "屏幕翻译APP离线词库v3.1 - CET-6六级词汇(完整A-Z全覆盖)"
+}

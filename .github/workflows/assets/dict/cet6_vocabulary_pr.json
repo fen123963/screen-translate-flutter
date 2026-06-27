@@ -1,0 +1,6486 @@
+[
+  {
+    "word": "pace",
+    "phonetic": "/peɪs/",
+    "definitions": [
+      "n. 步速；速度；步伐",
+      "v.踱步；缓慢而行"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Keep pace.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pack",
+    "phonetic": "/pæk/",
+    "definitions": [
+      "n. 包；包裹；一群",
+      "v. 包装；打包"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Pack the bags.",
+    "level": "CET-6"
+  },
+  {
+    "word": "package",
+    "phonetic": "/ˈpækɪdʒ/",
+    "definitions": [
+      "n. 包；包裹；包装",
+      "v. 包装；打包"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Package tour.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pain",
+    "phonetic": "/peɪn/",
+    "definitions": [
+      "n. 痛苦；疼痛；努力",
+      "v. 使痛苦"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "No pain, no gain.",
+    "level": "CET-6"
+  },
+  {
+    "word": "paint",
+    "phonetic": "/peɪnt/",
+    "definitions": [
+      "n. 油漆；颜料",
+      "v. 油漆；绘画"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Paint the wall.",
+    "level": "CET-6"
+  },
+  {
+    "word": "painter",
+    "phonetic": "/ˈpeɪntər/",
+    "definitions": [
+      "n. 画家；油漆工"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Great painter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pair",
+    "phonetic": "/peər/",
+    "definitions": [
+      "n. 一对；一双",
+      "v. 配对；成对"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "A pair of shoes.",
+    "level": "CET-6"
+  },
+  {
+    "word": "palace",
+    "phonetic": "/ˈpæləs/",
+    "definitions": [
+      "n. 宫殿；皇宫"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Buckingham Palace.",
+    "level": "CET-6"
+  },
+  {
+    "word": "panel",
+    "phonetic": "/ˈpænl/",
+    "definitions": [
+      "n. 面板；仪表板；专门小组"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Control panel.",
+    "level": "CET-6"
+  },
+  {
+    "word": "panic",
+    "phonetic": "/ˈpænɪk/",
+    "definitions": [
+      "n. 恐慌；惊慌",
+      "v. 使恐慌"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Panic attack.",
+    "level": "CET-6"
+  },
+  {
+    "word": "paper",
+    "phonetic": "/ˈpeɪpər/",
+    "definitions": [
+      "n. 纸；文件；论文",
+      "v. 用纸包装"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Research paper.",
+    "level": "CET-6"
+  },
+  {
+    "word": "parade",
+    "phonetic": "/pəˈreɪd/",
+    "definitions": [
+      "n. 游行；阅兵",
+      "v. 游行；列队行进"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Parade through the city.",
+    "level": "CET-6"
+  },
+  {
+    "word": "parallel",
+    "phonetic": "/ˈpærəlel/",
+    "definitions": [
+      "adj. 平行的；类似的",
+      "n. 平行线；相似处"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Parallel lines.",
+    "level": "CET-6"
+  },
+  {
+    "word": "parcel",
+    "phonetic": "/ˈpɑːrsl/",
+    "definitions": [
+      "n. 包裹；小包"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Send a parcel.",
+    "level": "CET-6"
+  },
+  {
+    "word": "parent",
+    "phonetic": "/ˈpeərənt/",
+    "definitions": [
+      "n. 父母；父亲或母亲"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Single parent.",
+    "level": "CET-6"
+  },
+  {
+    "word": "park",
+    "phonetic": "/pɑːrk/",
+    "definitions": [
+      "n. 公园；停车场",
+      "v. 停车"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Park the car.",
+    "level": "CET-6"
+  },
+  {
+    "word": "part",
+    "phonetic": "/pɑːrt/",
+    "definitions": [
+      "n. 部分；角色；零件",
+      "v. 分开；分离"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Part of the problem.",
+    "level": "CET-6"
+  },
+  {
+    "word": "partial",
+    "phonetic": "/ˈpɑːrʃl/",
+    "definitions": [
+      "adj. 部分的；偏袒的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Partial success.",
+    "level": "CET-6"
+  },
+  {
+    "word": "participate",
+    "phonetic": "/pɑːrˈtɪsɪpeɪt/",
+    "definitions": [
+      "v. 参与；参加"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Participate in the discussion.",
+    "level": "CET-6"
+  },
+  {
+    "word": "particle",
+    "phonetic": "/ˈpɑːrtɪkl/",
+    "definitions": [
+      "n. 粒子；微粒"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Atomic particle.",
+    "level": "CET-6"
+  },
+  {
+    "word": "particular",
+    "phonetic": "/pərˈtɪkjələr/",
+    "definitions": [
+      "adj. 特定的；特别的",
+      "n. 详细说明"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Particular attention.",
+    "level": "CET-6"
+  },
+  {
+    "word": "particularly",
+    "phonetic": "/pərˈtɪkjələrli/",
+    "definitions": [
+      "adv. 特别；尤其"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Particularly good.",
+    "level": "CET-6"
+  },
+  {
+    "word": "partner",
+    "phonetic": "/ˈpɑːrtər/",
+    "definitions": [
+      "n. 伙伴；搭档；合伙人"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Business partner.",
+    "level": "CET-6"
+  },
+  {
+    "word": "party",
+    "phonetic": "/ˈpɑːrti/",
+    "definitions": [
+      "n. 聚会；政党；派对"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Birthday party.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pass",
+    "phonetic": "/pɑːs/",
+    "definitions": [
+      "v. 通过；传递；经过",
+      "n. 通行证；关口"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Pass the exam.",
+    "level": "CET-6"
+  },
+  {
+    "word": "passage",
+    "phonetic": "/ˈpæsɪdʒ/",
+    "definitions": [
+      "n. 通道；段落；通行"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Read the passage.",
+    "level": "CET-6"
+  },
+  {
+    "word": "passenger",
+    "phonetic": "/ˈpæsɪndʒər/",
+    "definitions": [
+      "n. 乘客；旅客"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Train passenger.",
+    "level": "CET-6"
+  },
+  {
+    "word": "passion",
+    "phonetic": "/ˈpæʃn/",
+    "definitions": [
+      "n. 热情；激情；爱好"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Passion for music.",
+    "level": "CET-6"
+  },
+  {
+    "word": "passive",
+    "phonetic": "/ˈpæsɪv/",
+    "definitions": [
+      "adj. 被动的；消极的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Passive role.",
+    "level": "CET-6"
+  },
+  {
+    "word": "past",
+    "phonetic": "/pɑːst/",
+    "definitions": [
+      "adj. 过去的",
+      "n. 过去；往事",
+      "prep. 经过"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n.",
+      "prep."
+    ],
+    "example_sentence": "In the past.",
+    "level": "CET-6"
+  },
+  {
+    "word": "patent",
+    "phonetic": "/ˈpætnt/",
+    "definitions": [
+      "n. 专利；专利权",
+      "adj. 专利的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Patent application.",
+    "level": "CET-6"
+  },
+  {
+    "word": "path",
+    "phonetic": "/pɑːθ/",
+    "definitions": [
+      "n. 路径；道路；途径"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Follow the path.",
+    "level": "CET-6"
+  },
+  {
+    "word": "patience",
+    "phonetic": "/ˈpeɪʃns/",
+    "definitions": [
+      "n. 耐心；忍耐"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Have patience.",
+    "level": "CET-6"
+  },
+  {
+    "word": "patient",
+    "phonetic": "/ˈpeɪʃnt/",
+    "definitions": [
+      "adj. 有耐心的",
+      "n. 病人"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Be patient.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pattern",
+    "phonetic": "/ˈpætərn/",
+    "definitions": [
+      "n. 模式；图案；样式",
+      "v. 仿制"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Design pattern.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pause",
+    "phonetic": "/pɔːz/",
+    "definitions": [
+      "n. 暂停；停顿",
+      "v. 暂停；停顿"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Pause the video.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pay",
+    "phonetic": "/peɪ/",
+    "definitions": [
+      "v. 支付；付款；给予",
+      "n. 工资；薪水"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Pay attention.",
+    "level": "CET-6"
+  },
+  {
+    "word": "peace",
+    "phonetic": "/piːs/",
+    "definitions": [
+      "n. 和平；平静"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "World peace.",
+    "level": "CET-6"
+  },
+  {
+    "word": "peaceful",
+    "phonetic": "/ˈpiːsfl/",
+    "definitions": [
+      "adj. 和平的；平静的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Peaceful atmosphere.",
+    "level": "CET-6"
+  },
+  {
+    "word": "peak",
+    "phonetic": "/piːk/",
+    "definitions": [
+      "n. 山峰；顶点",
+      "adj. 高峰的",
+      "v. 达到高峰"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Peak performance.",
+    "level": "CET-6"
+  },
+  {
+    "word": "peer",
+    "phonetic": "/pɪər/",
+    "definitions": [
+      "n. 同辈；同龄人；贵族",
+      "v. 凝视；窥视"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Peer pressure.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pen",
+    "phonetic": "/pen/",
+    "definitions": [
+      "n. 笔；钢笔"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Ballpoint pen.",
+    "level": "CET-6"
+  },
+  {
+    "word": "penalty",
+    "phonetic": "/ˈpenəlti/",
+    "definitions": [
+      "n. 惩罚；罚金"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Death penalty.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pencil",
+    "phonetic": "/ˈpensl/",
+    "definitions": [
+      "n. 铅笔"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Pencil sharpener.",
+    "level": "CET-6"
+  },
+  {
+    "word": "penny",
+    "phonetic": "/ˈpeni/",
+    "definitions": [
+      "n. 便士；一分钱"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Penny wise.",
+    "level": "CET-6"
+  },
+  {
+    "word": "people",
+    "phonetic": "/ˈpiːpl/",
+    "definitions": [
+      "n. 人；人们；民族"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Many people.",
+    "level": "CET-6"
+  },
+  {
+    "word": "percent",
+    "phonetic": "/pərˈsent/",
+    "definitions": [
+      "n. 百分比；百分数"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Ten percent.",
+    "level": "CET-6"
+  },
+  {
+    "word": "percentage",
+    "phonetic": "/pərˈsentɪdʒ/",
+    "definitions": [
+      "n. 百分比；比例"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "High percentage.",
+    "level": "CET-6"
+  },
+  {
+    "word": "perfect",
+    "phonetic": "/ˈpɜːrfɪkt/",
+    "definitions": [
+      "adj. 完美的；理想的",
+      "v. 使完美"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Perfect solution.",
+    "level": "CET-6"
+  },
+  {
+    "word": "perform",
+    "phonetic": "/pərˈfɔːrm/",
+    "definitions": [
+      "v. 执行；表演；完成"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Perform the task.",
+    "level": "CET-6"
+  },
+  {
+    "word": "performance",
+    "phonetic": "/pərˈfɔːrməns/",
+    "definitions": [
+      "n. 表演；表现；性能"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Performance review.",
+    "level": "CET-6"
+  },
+  {
+    "word": "perhaps",
+    "phonetic": "/pərˈhæps/",
+    "definitions": [
+      "adv. 也许；可能"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Perhaps later.",
+    "level": "CET-6"
+  },
+  {
+    "word": "period",
+    "phonetic": "/ˈpɪriəd/",
+    "definitions": [
+      "n. 时期；期间；课时"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Time period.",
+    "level": "CET-6"
+  },
+  {
+    "word": "permanent",
+    "phonetic": "/ˈpɜːrmənənt/",
+    "definitions": [
+      "adj. 永久的；固定的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Permanent job.",
+    "level": "CET-6"
+  },
+  {
+    "word": "permission",
+    "phonetic": "/pərˈmɪʃn/",
+    "definitions": [
+      "n. 许可；允许"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Ask permission.",
+    "level": "CET-6"
+  },
+  {
+    "word": "permit",
+    "phonetic": "/pərˈmɪt/",
+    "definitions": [
+      "v. 允许；许可",
+      "n. 许可证"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Permit me to speak.",
+    "level": "CET-6"
+  },
+  {
+    "word": "person",
+    "phonetic": "/ˈpɜːrsn/",
+    "definitions": [
+      "n. 人；个人"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Responsible person.",
+    "level": "CET-6"
+  },
+  {
+    "word": "personal",
+    "phonetic": "/ˈpɜːrsənl/",
+    "definitions": [
+      "adj. 个人的；私人的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Personal information.",
+    "level": "CET-6"
+  },
+  {
+    "word": "personality",
+    "phonetic": "/ˌpɜːrsəˈnæləti/",
+    "definitions": [
+      "n. 性格；个性；人格"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Strong personality.",
+    "level": "CET-6"
+  },
+  {
+    "word": "personnel",
+    "phonetic": "/ˌpɜːrsəˈnel/",
+    "definitions": [
+      "n. 人员；员工；人事部门"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Personnel department.",
+    "level": "CET-6"
+  },
+  {
+    "word": "perspective",
+    "phonetic": "/pərˈspektɪv/",
+    "definitions": [
+      "n. 观点；看法；透视"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "New perspective.",
+    "level": "CET-6"
+  },
+  {
+    "word": "persuade",
+    "phonetic": "/pərˈsweɪd/",
+    "definitions": [
+      "v. 说服；劝说"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Persuade him to go.",
+    "level": "CET-6"
+  },
+  {
+    "word": "phase",
+    "phonetic": "/feɪz/",
+    "definitions": [
+      "n. 阶段；时期",
+      "v. 分阶段进行"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "First phase.",
+    "level": "CET-6"
+  },
+  {
+    "word": "phenomenon",
+    "phonetic": "/fəˈnɒmɪnən/",
+    "definitions": [
+      "n. 现象；奇迹"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Natural phenomenon.",
+    "level": "CET-6"
+  },
+  {
+    "word": "philosophy",
+    "phonetic": "/fəˈlɒsəfi/",
+    "definitions": [
+      "n. 哲学；哲理"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Life philosophy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "photo",
+    "phonetic": "/ˈfoʊtoʊ/",
+    "definitions": [
+      "n. 照片；相片"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Take a photo.",
+    "level": "CET-6"
+  },
+  {
+    "word": "phrase",
+    "phonetic": "/freɪz/",
+    "definitions": [
+      "n. 短语；词组",
+      "v. 用短语表达"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Useful phrase.",
+    "level": "CET-6"
+  },
+  {
+    "word": "physical",
+    "phonetic": "/ˈfɪzɪkl/",
+    "definitions": [
+      "adj. 物理的；身体的；物质的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Physical exercise.",
+    "level": "CET-6"
+  },
+  {
+    "word": "physician",
+    "phonetic": "/fəˈzɪʃn/",
+    "definitions": [
+      "n. 医生；内科医生"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Consult a physician.",
+    "level": "CET-6"
+  },
+  {
+    "word": "piano",
+    "phonetic": "/pəˈnoʊ/",
+    "definitions": [
+      "n. 钢琴"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Play the piano.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pick",
+    "phonetic": "/pɪk/",
+    "definitions": [
+      "v. 挑选；采摘",
+      "n. 选择"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Pick up.",
+    "level": "CET-6"
+  },
+  {
+    "word": "picnic",
+    "phonetic": "/ˈpɪknɪk/",
+    "definitions": [
+      "n. 野餐",
+      "v. 去野餐"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Have a picnic.",
+    "level": "CET-6"
+  },
+  {
+    "word": "picture",
+    "phonetic": "/ˈpɪktʃər/",
+    "definitions": [
+      "n. 图片；照片；画面",
+      "v.描绘；想象"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Take a picture.",
+    "level": "CET-6"
+  },
+  {
+    "word": "piece",
+    "phonetic": "/piːs/",
+    "definitions": [
+      "n. 片；块；件",
+      "v. 组合"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Piece of cake.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pile",
+    "phonetic": "/paɪl/",
+    "definitions": [
+      "n. 堆；一堆",
+      "v.堆积"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Pile of books.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "definitions": [
+      "n. 飞行员；领航员",
+      "v. 驾驶；领航"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Pilot the plane.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pin",
+    "phonetic": "/pɪn/",
+    "definitions": [
+      "n. 钉；别针",
+      "v. 钉住；固定"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Safety pin.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pink",
+    "phonetic": "/pɪŋk/",
+    "definitions": [
+      "adj. 粉红色的",
+      "n. 粉红色"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Pink color.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pioneer",
+    "phonetic": "/ˌpaɪəˈnɪər/",
+    "definitions": [
+      "n. 先驱；开拓者",
+      "v. 开拓"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Pioneer in the field.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pipe",
+    "phonetic": "/paɪp/",
+    "definitions": [
+      "n. 管子；管道",
+      "v. 用管道输送"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Water pipe.",
+    "level": "CET-6"
+  },
+  {
+    "word": "place",
+    "phonetic": "/pleɪs/",
+    "definitions": [
+      "n. 地方；位置；名次",
+      "v. 放置"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "In place.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plain",
+    "phonetic": "/pleɪn/",
+    "definitions": [
+      "adj. 平的；朴素的；清楚的",
+      "n. 平原"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Plain text.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plan",
+    "phonetic": "/plæn/",
+    "definitions": [
+      "n. 计划；方案",
+      "v. 计划；打算"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Make a plan.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plane",
+    "phonetic": "/pleɪn/",
+    "definitions": [
+      "n. 飞机；平面",
+      "adj. 平的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "By plane.",
+    "level": "CET-6"
+  },
+  {
+    "word": "planet",
+    "phonetic": "/ˈplænət/",
+    "definitions": [
+      "n. 行星"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Earth is a planet.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plant",
+    "phonetic": "/plænt/",
+    "definitions": [
+      "n. 植物；工厂",
+      "v. 种植"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Plant trees.",
+    "level": "CET-6"
+  },
+  {
+    "word": "play",
+    "phonetic": "/pleɪ/",
+    "definitions": [
+      "v. 玩；演奏；扮演",
+      "n. 游戏；剧本"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Play a role.",
+    "level": "CET-6"
+  },
+  {
+    "word": "player",
+    "phonetic": "/ˈpleɪər/",
+    "definitions": [
+      "n. 玩家；运动员；演员"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Team player.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plea",
+    "phonetic": "/pliː/",
+    "definitions": [
+      "n. 请求；恳求； plea"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Make a plea.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plead",
+    "phonetic": "/pliːd/",
+    "definitions": [
+      "v. 恳求；请求；辩护"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Plead for mercy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pleasant",
+    "phonetic": "/ˈpleznt/",
+    "definitions": [
+      "adj. 令人愉快的；舒适的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Pleasant weather.",
+    "level": "CET-6"
+  },
+  {
+    "word": "please",
+    "phonetic": "/pliːz/",
+    "definitions": [
+      "v. 使高兴；请",
+      "adv. 请"
+    ],
+    "part_of_speech": [
+      "v.",
+      "adv."
+    ],
+    "example_sentence": "Please help me.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pleasure",
+    "phonetic": "/ˈpleʒər/",
+    "definitions": [
+      "n. 快乐；乐趣；愿望"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "With pleasure.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pledge",
+    "phonetic": "/pledʒ/",
+    "definitions": [
+      "n. 保证；誓言",
+      "v. 保证；发誓"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Make a pledge.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plenty",
+    "phonetic": "/ˈplenti/",
+    "definitions": [
+      "n. 大量；充足",
+      "adj. 足够的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Plenty of time.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plot",
+    "phonetic": "/plɒt/",
+    "definitions": [
+      "n. 情节；阴谋；小块土地",
+      "v. 密谋；策划"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Plot twist.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plug",
+    "phonetic": "/plʌg/",
+    "definitions": [
+      "n. 插头；塞子",
+      "v. 插上；堵住"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Plug in.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plunge",
+    "phonetic": "/plʌndʒ/",
+    "definitions": [
+      "v. 投入；跳入；骤降",
+      "n. 跳入；骤降"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Plunge into water.",
+    "level": "CET-6"
+  },
+  {
+    "word": "plus",
+    "phonetic": "/plʌs/",
+    "definitions": [
+      "adj. 加的；正的",
+      "prep. 加上",
+      "n. 加号"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "prep.",
+      "n."
+    ],
+    "example_sentence": "Plus one.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pocket",
+    "phonetic": "/ˈpɒkɪt/",
+    "definitions": [
+      "n. 口袋；袋子",
+      "adj.袖珍的",
+      "v. 把...装入口袋"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Pocket money.",
+    "level": "CET-6"
+  },
+  {
+    "word": "poem",
+    "phonetic": "/ˈpoʊəm/",
+    "definitions": [
+      "n. 诗歌；诗"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Write a poem.",
+    "level": "CET-6"
+  },
+  {
+    "word": "poet",
+    "phonetic": "/ˈpoʊət/",
+    "definitions": [
+      "n. 诗人"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Great poet.",
+    "level": "CET-6"
+  },
+  {
+    "word": "point",
+    "phonetic": "/pɔɪnt/",
+    "definitions": [
+      "n. 点；要点；分数",
+      "v. 指向；指出"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Key point.",
+    "level": "CET-6"
+  },
+  {
+    "word": "poison",
+    "phonetic": "/ˈpɔɪzn/",
+    "definitions": [
+      "n. 毒药；毒物",
+      "v. 毒害"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Poison the water.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pole",
+    "phonetic": "/poʊl/",
+    "definitions": [
+      "n. 杆；柱；极"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "North pole.",
+    "level": "CET-6"
+  },
+  {
+    "word": "police",
+    "phonetic": "/pəˈliːs/",
+    "definitions": [
+      "n. 警察；警方"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Call the police.",
+    "level": "CET-6"
+  },
+  {
+    "word": "policy",
+    "phonetic": "/ˈpɒləsi/",
+    "definitions": [
+      "n. 政策；方针；保险单"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Government policy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "polish",
+    "phonetic": "/ˈpɒlɪʃ/",
+    "definitions": [
+      "v. 擦亮；磨光",
+      "n. 擦亮剂"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Polish the shoes.",
+    "level": "CET-6"
+  },
+  {
+    "word": "polite",
+    "phonetic": "/pəˈlaɪt/",
+    "definitions": [
+      "adj. 有礼貌的；客气的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Be polite.",
+    "level": "CET-6"
+  },
+  {
+    "word": "political",
+    "phonetic": "/pəˈlɪtɪkl/",
+    "definitions": [
+      "adj. 政治的；政党的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Political party.",
+    "level": "CET-6"
+  },
+  {
+    "word": "politician",
+    "phonetic": "/ˌpɒləˈtɪʃn/",
+    "definitions": [
+      "n. 政治家；政客"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Successful politician.",
+    "level": "CET-6"
+  },
+  {
+    "word": "politics",
+    "phonetic": "/ˈpɒlətɪks/",
+    "definitions": [
+      "n. 政治；政治学"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "World politics.",
+    "level": "CET-6"
+  },
+  {
+    "word": "poll",
+    "phonetic": "/poʊl/",
+    "definitions": [
+      "n. 投票；民意测验",
+      "v. 投票；进行民意测验"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Opinion poll.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pollution",
+    "phonetic": "/pəˈluːʃn/",
+    "definitions": [
+      "n. 污染；污染物"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Air pollution.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pond",
+    "phonetic": "/pɒnd/",
+    "definitions": [
+      "n. 池塘"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Fish pond.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pool",
+    "phonetic": "/puːl/",
+    "definitions": [
+      "n. 池子；游泳池；共同基金",
+      "v. 汇集；集中"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Swimming pool.",
+    "level": "CET-6"
+  },
+  {
+    "word": "poor",
+    "phonetic": "/pɔːr/",
+    "definitions": [
+      "adj. 贫穷的；可怜的；差的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Poor quality.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pop",
+    "phonetic": "/pɒp/",
+    "definitions": [
+      "adj. 流行的；通俗的",
+      "n. 砰的一声；流行音乐",
+      "v. 突然出现"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Pop music.",
+    "level": "CET-6"
+  },
+  {
+    "word": "popular",
+    "phonetic": "/ˈpɒpjələr/",
+    "definitions": [
+      "adj. 流行的；受欢迎的；通俗的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Popular culture.",
+    "level": "CET-6"
+  },
+  {
+    "word": "population",
+    "phonetic": "/ˌpɒpjəˈleɪʃn/",
+    "definitions": [
+      "n. 人口；种群"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Population growth.",
+    "level": "CET-6"
+  },
+  {
+    "word": "port",
+    "phonetic": "/pɔːrt/",
+    "definitions": [
+      "n. 港口；端口"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Sea port.",
+    "level": "CET-6"
+  },
+  {
+    "word": "portable",
+    "phonetic": "/ˈpɔːrtəbl/",
+    "definitions": [
+      "adj. 可携带的；轻便的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Portable device.",
+    "level": "CET-6"
+  },
+  {
+    "word": "portion",
+    "phonetic": "/ˈpɔːrʃn/",
+    "definitions": [
+      "n. 部分；一份",
+      "v. 分配"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "A portion of food.",
+    "level": "CET-6"
+  },
+  {
+    "word": "portrait",
+    "phonetic": "/ˈpɔːrtrət/",
+    "definitions": [
+      "n. 肖像；画像"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Family portrait.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pose",
+    "phonetic": "/poʊz/",
+    "definitions": [
+      "v. 摆姿势；造成",
+      "n. 姿势"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Pose a question.",
+    "level": "CET-6"
+  },
+  {
+    "word": "position",
+    "phonetic": "/pəˈzɪʃn/",
+    "definitions": [
+      "n. 位置；职位；立场",
+      "v.安置；放置"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Job position.",
+    "level": "CET-6"
+  },
+  {
+    "word": "positive",
+    "phonetic": "/ˈpɒzətɪv/",
+    "definitions": [
+      "adj. 积极的；肯定的；正的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Positive attitude.",
+    "level": "CET-6"
+  },
+  {
+    "word": "possess",
+    "phonetic": "/pəˈzes/",
+    "definitions": [
+      "vt. 拥有；占有；控制"
+    ],
+    "part_of_speech": [
+      "vt."
+    ],
+    "example_sentence": "Possess wealth.",
+    "level": "CET-6"
+  },
+  {
+    "word": "possession",
+    "phonetic": "/pəˈzeʃn/",
+    "definitions": [
+      "n. 拥有；财产"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Personal possession.",
+    "level": "CET-6"
+  },
+  {
+    "word": "possibility",
+    "phonetic": "/ˌpɒsəˈbɪləti/",
+    "definitions": [
+      "n. 可能性；可能的事"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Strong possibility.",
+    "level": "CET-6"
+  },
+  {
+    "word": "possible",
+    "phonetic": "/ˈpɒsəbl/",
+    "definitions": [
+      "adj. 可能的；合理的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "As soon as possible.",
+    "level": "CET-6"
+  },
+  {
+    "word": "possibly",
+    "phonetic": "/ˈpɒsəbli/",
+    "definitions": [
+      "adv. 可能；也许"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Possibly true.",
+    "level": "CET-6"
+  },
+  {
+    "word": "post",
+    "phonetic": "/poʊst/",
+    "definitions": [
+      "n. 邮件；职位；柱子",
+      "v. 邮寄；发布"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Post office.",
+    "level": "CET-6"
+  },
+  {
+    "word": "poster",
+    "phonetic": "/ˈpoʊstər/",
+    "definitions": [
+      "n. 海报；招贴"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Movie poster.",
+    "level": "CET-6"
+  },
+  {
+    "word": "postpone",
+    "phonetic": "/pəʊstˈpəʊn/",
+    "definitions": [
+      "vt. 推迟；延期"
+    ],
+    "part_of_speech": [
+      "vt."
+    ],
+    "example_sentence": "Postpone the meeting.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pot",
+    "phonetic": "/pɒt/",
+    "definitions": [
+      "n. 罐；壶；锅"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Flower pot.",
+    "level": "CET-6"
+  },
+  {
+    "word": "potential",
+    "phonetic": "/pəˈtenʃl/",
+    "definitions": [
+      "adj. 潜在的；可能的",
+      "n. 潜力；可能性"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Potential risk.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pottery",
+    "phonetic": "/ˈpɒtəri/",
+    "definitions": [
+      "n. 陶器；陶艺"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Ancient pottery.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pound",
+    "phonetic": "/paʊnd/",
+    "definitions": [
+      "n. 磅；英镑",
+      "v. 重击；捣碎"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Pound of meat.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pour",
+    "phonetic": "/pɔːr/",
+    "definitions": [
+      "v. 倒；灌；涌出"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Pour water.",
+    "level": "CET-6"
+  },
+  {
+    "word": "poverty",
+    "phonetic": "/ˈpɒvərti/",
+    "definitions": [
+      "n. 贫穷；贫困"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Fight poverty.",
+    "level": "CET-6"
+  },
+  {
+    "word": "powder",
+    "phonetic": "/ˈpaʊdər/",
+    "definitions": [
+      "n. 粉；粉末"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Gun powder.",
+    "level": "CET-6"
+  },
+  {
+    "word": "power",
+    "phonetic": "/ˈpaʊər/",
+    "definitions": [
+      "n. 力量；权力；电力",
+      "v. 提供动力"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Power plant.",
+    "level": "CET-6"
+  },
+  {
+    "word": "powerful",
+    "phonetic": "/ˈpaʊərfl/",
+    "definitions": [
+      "adj. 强大的；有力的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Powerful nation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "practical",
+    "phonetic": "/ˈpræktɪkl/",
+    "definitions": [
+      "adj. 实际的；实用的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Practical experience.",
+    "level": "CET-6"
+  },
+  {
+    "word": "practice",
+    "phonetic": "/ˈpræktɪs/",
+    "definitions": [
+      "n. 实践；练习；惯例",
+      "v. 练习；实践"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Put into practice.",
+    "level": "CET-6"
+  },
+  {
+    "word": "praise",
+    "phonetic": "/preɪz/",
+    "definitions": [
+      "n. 赞扬；称赞",
+      "v. 赞扬"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Praise the child.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pray",
+    "phonetic": "/preɪ/",
+    "definitions": [
+      "v. 祈祷；请求"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Pray for peace.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prayer",
+    "phonetic": "/preər/",
+    "definitions": [
+      "n. 祈祷；祷文"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Say a prayer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "precise",
+    "phonetic": "/prəˈsaɪs/",
+    "definitions": [
+      "adj. 精确的；准确的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Precise measurement.",
+    "level": "CET-6"
+  },
+  {
+    "word": "predict",
+    "phonetic": "/prəˈdɪkt/",
+    "definitions": [
+      "v. 预测；预报"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Predict the future.",
+    "level": "CET-6"
+  },
+  {
+    "word": "preference",
+    "phonetic": "/ˈprefrəns/",
+    "definitions": [
+      "n. 喜爱；偏爱；优先权"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Show preference.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prefer",
+    "phonetic": "/prəˈfɜːr/",
+    "definitions": [
+      "v. 更喜欢；偏爱"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "I prefer tea.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pregnant",
+    "phonetic": "/ˈpregnənt/",
+    "definitions": [
+      "adj. 怀孕的；充满的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "She is pregnant.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prejudice",
+    "phonetic": "/ˈpredʒədɪs/",
+    "definitions": [
+      "n.偏见；成见",
+      "v. 使有偏见"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Racial prejudice.",
+    "level": "CET-6"
+  },
+  {
+    "word": "premier",
+    "phonetic": "/prəˈmɪər/",
+    "definitions": [
+      "n. 总理；首相",
+      "adj. 第一的；首要的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "The premier visited.",
+    "level": "CET-6"
+  },
+  {
+    "word": "premium",
+    "phonetic": "/ˈpriːmiəm/",
+    "definitions": [
+      "n. 保费；额外费用",
+      "adj.优质的；高级的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Premium quality.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prepare",
+    "phonetic": "/prəˈpeər/",
+    "definitions": [
+      "v. 准备；预备"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Prepare for the exam.",
+    "level": "CET-6"
+  },
+  {
+    "word": "preparation",
+    "phonetic": "/ˌprepəˈreɪʃn/",
+    "definitions": [
+      "n. 准备；预备"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Make preparation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prescribe",
+    "phonetic": "/prəˈskraɪb/",
+    "definitions": [
+      "v. 规定；开处方"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Prescribe medicine.",
+    "level": "CET-6"
+  },
+  {
+    "word": "presence",
+    "phonetic": "/ˈprezns/",
+    "definitions": [
+      "n. 存在；出席；到场"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Your presence.",
+    "level": "CET-6"
+  },
+  {
+    "word": "present",
+    "phonetic": "/ˈpreznt/",
+    "definitions": [
+      "adj. 现在的；出席的",
+      "n. 现在；礼物",
+      "v. 提出；呈现"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Present situation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "presentation",
+    "phonetic": "/ˌprezənˈteɪʃn/",
+    "definitions": [
+      "n. 展示；介绍；报告"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Give a presentation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "preserve",
+    "phonetic": "/prəˈzɜːrv/",
+    "definitions": [
+      "v. 保护；保存；腌制"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Preserve the environment.",
+    "level": "CET-6"
+  },
+  {
+    "word": "president",
+    "phonetic": "/ˈprezɪdənt/",
+    "definitions": [
+      "n. 总统；主席；校长"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "The president spoke.",
+    "level": "CET-6"
+  },
+  {
+    "word": "press",
+    "phonetic": "/pres/",
+    "definitions": [
+      "v. 按；压；挤压",
+      "n. 新闻界；出版社"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Press the button.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pressure",
+    "phonetic": "/ˈpreʃər/",
+    "definitions": [
+      "n. 压力；压强",
+      "v. 施压"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Under pressure.",
+    "level": "CET-6"
+  },
+  {
+    "word": "presumably",
+    "phonetic": "/prəˈzuːməbli/",
+    "definitions": [
+      "adv. 大概；推测"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Presumably true.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pretend",
+    "phonetic": "/prəˈtend/",
+    "definitions": [
+      "v. 假装；伪装"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Pretend to be happy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pretty",
+    "phonetic": "/ˈpriti/",
+    "definitions": [
+      "adj. 漂亮的；可爱的",
+      "adv. 相当；很"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Pretty girl.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prevail",
+    "phonetic": "/prəˈveɪl/",
+    "definitions": [
+      "v. 占优势；盛行"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Prevail over difficulties.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prevent",
+    "phonetic": "/prəˈvent/",
+    "definitions": [
+      "v. 预防；阻止"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Prevent disease.",
+    "level": "CET-6"
+  },
+  {
+    "word": "previous",
+    "phonetic": "/ˈpriːviəs/",
+    "definitions": [
+      "adj. 先前的；以前的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Previous experience.",
+    "level": "CET-6"
+  },
+  {
+    "word": "previously",
+    "phonetic": "/ˈpriːviəsli/",
+    "definitions": [
+      "adv. 先前；以前"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Previously mentioned.",
+    "level": "CET-6"
+  },
+  {
+    "word": "price",
+    "phonetic": "/praɪs/",
+    "definitions": [
+      "n. 价格；代价",
+      "v. 定价"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Price tag.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pride",
+    "phonetic": "/praɪd/",
+    "definitions": [
+      "n. 自豪；骄傲",
+      "v. 使自豪"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Take pride in.",
+    "level": "CET-6"
+  },
+  {
+    "word": "priest",
+    "phonetic": "/priːst/",
+    "definitions": [
+      "n. 神父；牧师"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "The priest spoke.",
+    "level": "CET-6"
+  },
+  {
+    "word": "primary",
+    "phonetic": "/ˈpraɪməri/",
+    "definitions": [
+      "adj. 主要的；最初的；基本的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Primary goal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prime",
+    "phonetic": "/praɪm/",
+    "definitions": [
+      "adj. 主要的；最好的",
+      "n. 全盛时期"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Prime time.",
+    "level": "CET-6"
+  },
+  {
+    "word": "primitive",
+    "phonetic": "/ˈprɪmətɪv/",
+    "definitions": [
+      "adj. 原始的；简单的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Primitive society.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prince",
+    "phonetic": "/prɪns/",
+    "definitions": [
+      "n. 王子"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Prince Charles.",
+    "level": "CET-6"
+  },
+  {
+    "word": "princess",
+    "phonetic": "/prɪnˈses/",
+    "definitions": [
+      "n. 公主"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Princess Diana.",
+    "level": "CET-6"
+  },
+  {
+    "word": "principal",
+    "phonetic": "/ˈprɪnsəpl/",
+    "definitions": [
+      "adj. 主要的",
+      "n. 校长；本金"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Principal reason.",
+    "level": "CET-6"
+  },
+  {
+    "word": "principle",
+    "phonetic": "/ˈprɪnsəpl/",
+    "definitions": [
+      "n. 原则；原理；准则"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Basic principle.",
+    "level": "CET-6"
+  },
+  {
+    "word": "print",
+    "phonetic": "/prɪnt/",
+    "definitions": [
+      "v. 打印；印刷",
+      "n. 印刷；版画"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Print the document.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prior",
+    "phonetic": "/ˈpraɪər/",
+    "definitions": [
+      "adj. 先前的；优先的",
+      "adv. 在前"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Prior to that.",
+    "level": "CET-6"
+  },
+  {
+    "word": "priority",
+    "phonetic": "/praɪˈɒrəti/",
+    "definitions": [
+      "n. 优先；优先权；重点"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Top priority.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prison",
+    "phonetic": "/ˈprɪzn/",
+    "definitions": [
+      "n. 监狱"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Go to prison.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prisoner",
+    "phonetic": "/ˈprɪznər/",
+    "definitions": [
+      "n. 囚犯；俘虏"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Prisoner of war.",
+    "level": "CET-6"
+  },
+  {
+    "word": "private",
+    "phonetic": "/ˈpraɪvət/",
+    "definitions": [
+      "adj. 私人的；私有的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Private property.",
+    "level": "CET-6"
+  },
+  {
+    "word": "privilege",
+    "phonetic": "/ˈprɪvəlɪdʒ/",
+    "definitions": [
+      "n. 特权；荣幸",
+      "v. 给予特权"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Special privilege.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prize",
+    "phonetic": "/praɪz/",
+    "definitions": [
+      "n. 奖品；奖金",
+      "v. 珍视"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Win a prize.",
+    "level": "CET-6"
+  },
+  {
+    "word": "probability",
+    "phonetic": "/ˌprɒbəˈbɪləti/",
+    "definitions": [
+      "n. 可能性；概率"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "High probability.",
+    "level": "CET-6"
+  },
+  {
+    "word": "probable",
+    "phonetic": "/ˈprɒbəbl/",
+    "definitions": [
+      "adj. 可能的；大概的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Probable outcome.",
+    "level": "CET-6"
+  },
+  {
+    "word": "probably",
+    "phonetic": "/ˈprɒbəbli/",
+    "definitions": [
+      "adv. 大概；可能"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Probably correct.",
+    "level": "CET-6"
+  },
+  {
+    "word": "problem",
+    "phonetic": "/ˈprɒbləm/",
+    "definitions": [
+      "n. 问题；难题"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Solve the problem.",
+    "level": "CET-6"
+  },
+  {
+    "word": "procedure",
+    "phonetic": "/prəˈsiːdʒər/",
+    "definitions": [
+      "n. 程序；步骤"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Standard procedure.",
+    "level": "CET-6"
+  },
+  {
+    "word": "proceed",
+    "phonetic": "/prəˈsiːd/",
+    "definitions": [
+      "v. 继续；进行"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Proceed with caution.",
+    "level": "CET-6"
+  },
+  {
+    "word": "process",
+    "phonetic": "/ˈprəʊses/",
+    "definitions": [
+      "n. 过程；流程",
+      "v. 处理；加工"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Natural process.",
+    "level": "CET-6"
+  },
+  {
+    "word": "procession",
+    "phonetic": "/prəˈseʃn/",
+    "definitions": [
+      "n. 队列；游行"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wedding procession.",
+    "level": "CET-6"
+  },
+  {
+    "word": "produce",
+    "phonetic": "/prəˈduːs/",
+    "definitions": [
+      "v. 生产；制造；产生",
+      "n. 产品"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Produce goods.",
+    "level": "CET-6"
+  },
+  {
+    "word": "producer",
+    "phonetic": "/prəˈduːsər/",
+    "definitions": [
+      "n. 生产者；制片人"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Film producer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "product",
+    "phonetic": "/ˈprɒdʌkt/",
+    "definitions": [
+      "n. 产品；产物"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "New product.",
+    "level": "CET-6"
+  },
+  {
+    "word": "production",
+    "phonetic": "/prəˈdʌkʃn/",
+    "definitions": [
+      "n. 生产；产量；制作"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Production line.",
+    "level": "CET-6"
+  },
+  {
+    "word": "profession",
+    "phonetic": "/prəˈfeʃn/",
+    "definitions": [
+      "n. 职业；行业"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Legal profession.",
+    "level": "CET-6"
+  },
+  {
+    "word": "professional",
+    "phonetic": "/prəˈfeʃənl/",
+    "definitions": [
+      "adj. 职业的；专业的",
+      "n. 专业人员"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Professional skills.",
+    "level": "CET-6"
+  },
+  {
+    "word": "professor",
+    "phonetic": "/prəˈfesər/",
+    "definitions": [
+      "n. 教授"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "University professor.",
+    "level": "CET-6"
+  },
+  {
+    "word": "profile",
+    "phonetic": "/ˈproʊfaɪl/",
+    "definitions": [
+      "n. 轮廓；简介；侧面",
+      "v. 描述...的轮廓"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "User profile.",
+    "level": "CET-6"
+  },
+  {
+    "word": "profit",
+    "phonetic": "/ˈprɒfɪt/",
+    "definitions": [
+      "n. 利润；利益",
+      "v. 获利"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Make a profit.",
+    "level": "CET-6"
+  },
+  {
+    "word": "program",
+    "phonetic": "/ˈproʊɡræm/",
+    "definitions": [
+      "n. 程序；计划；节目",
+      "v. 编程；安排"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Computer program.",
+    "level": "CET-6"
+  },
+  {
+    "word": "progress",
+    "phonetic": "/ˈprəʊɡres/",
+    "definitions": [
+      "n. 进步；进展",
+      "v. 进步；前进"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Make progress.",
+    "level": "CET-6"
+  },
+  {
+    "word": "project",
+    "phonetic": "/ˈprɒdʒekt/",
+    "definitions": [
+      "n. 项目；工程",
+      "v. 投射；计划"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "New project.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prominent",
+    "phonetic": "/ˈprɒmɪnənt/",
+    "definitions": [
+      "adj.杰出的；显著的；突出的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Prominent figure.",
+    "level": "CET-6"
+  },
+  {
+    "word": "promise",
+    "phonetic": "/ˈprɒmɪs/",
+    "definitions": [
+      "n. 承诺；诺言",
+      "v. 承诺；答应"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Make a promise.",
+    "level": "CET-6"
+  },
+  {
+    "word": "promote",
+    "phonetic": "/prəˈmoʊt/",
+    "definitions": [
+      "v. 促进；提升；宣传"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Promote growth.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prompt",
+    "phonetic": "/prɒmpt/",
+    "definitions": [
+      "adj.迅速的；及时的",
+      "v. 促使；提示"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Prompt response.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pronoun",
+    "phonetic": "/ˈproʊnaʊn/",
+    "definitions": [
+      "n. 代词"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Personal pronoun.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pronounce",
+    "phonetic": "/prəˈnaʊns/",
+    "definitions": [
+      "v. 发音；宣布"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Pronounce the word.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pronunciation",
+    "phonetic": "/prəˌnʌnsiˈeɪʃn/",
+    "definitions": [
+      "n. 发音"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Correct pronunciation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "proof",
+    "phonetic": "/pruːf/",
+    "definitions": [
+      "n. 证明；证据",
+      "adj. 防...的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Proof of identity.",
+    "level": "CET-6"
+  },
+  {
+    "word": "proper",
+    "phonetic": "/ˈprɒpər/",
+    "definitions": [
+      "adj. 适当的；正确的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Proper way.",
+    "level": "CET-6"
+  },
+  {
+    "word": "properly",
+    "phonetic": "/ˈprɒpərli/",
+    "definitions": [
+      "adv. 适当地；正确地"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Do it properly.",
+    "level": "CET-6"
+  },
+  {
+    "word": "property",
+    "phonetic": "/ˈprɒpərti/",
+    "definitions": [
+      "n. 财产；性质；房产"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Private property.",
+    "level": "CET-6"
+  },
+  {
+    "word": "proportion",
+    "phonetic": "/prəˈpɔːrʃn/",
+    "definitions": [
+      "n. 比例；部分",
+      "v. 使成比例"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Large proportion.",
+    "level": "CET-6"
+  },
+  {
+    "word": "proposal",
+    "phonetic": "/prəˈpoʊzl/",
+    "definitions": [
+      "n. 提议；建议；求婚"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Make a proposal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "propose",
+    "phonetic": "/prəˈpoʊz/",
+    "definitions": [
+      "v. 提议；建议；求婚"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Propose a plan.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prospect",
+    "phonetic": "/ˈprɒspekt/",
+    "definitions": [
+      "n. 前景；展望；可能性"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Good prospect.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prosperity",
+    "phonetic": "/prɒˈperəti/",
+    "definitions": [
+      "n. 繁荣；兴旺"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Economic prosperity.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prosperous",
+    "phonetic": "/ˈprɒspərəs/",
+    "definitions": [
+      "adj. 繁荣的；兴旺的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Prosperous city.",
+    "level": "CET-6"
+  },
+  {
+    "word": "protect",
+    "phonetic": "/prəˈtekt/",
+    "definitions": [
+      "v. 保护；防护"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Protect the environment.",
+    "level": "CET-6"
+  },
+  {
+    "word": "protection",
+    "phonetic": "/prəˈtekʃn/",
+    "definitions": [
+      "n. 保护；防护"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Environmental protection.",
+    "level": "CET-6"
+  },
+  {
+    "word": "protein",
+    "phonetic": "/ˈproʊtiːn/",
+    "definitions": [
+      "n. 蛋白质"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "High protein.",
+    "level": "CET-6"
+  },
+  {
+    "word": "protest",
+    "phonetic": "/prəˈtest/",
+    "definitions": [
+      "n. 抗议；反对",
+      "v. 抗议；反对"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Protest against.",
+    "level": "CET-6"
+  },
+  {
+    "word": "prove",
+    "phonetic": "/pruːv/",
+    "definitions": [
+      "v. 证明；证实"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Prove the theory.",
+    "level": "CET-6"
+  },
+  {
+    "word": "provide",
+    "phonetic": "/prəˈvaɪd/",
+    "definitions": [
+      "v. 提供；供给"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Provide service.",
+    "level": "CET-6"
+  },
+  {
+    "word": "provided",
+    "phonetic": "/prəˈvaɪdɪd/",
+    "definitions": [
+      "conj. 如果；假如"
+    ],
+    "part_of_speech": [
+      "conj."
+    ],
+    "example_sentence": "Provided that.",
+    "level": "CET-6"
+  },
+  {
+    "word": "province",
+    "phonetic": "/ˈprɒvɪns/",
+    "definitions": [
+      "n. 省；领域"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Guangdong province.",
+    "level": "CET-6"
+  },
+  {
+    "word": "provision",
+    "phonetic": "/prəˈvɪzn/",
+    "definitions": [
+      "n. 提供；供应；规定"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Make provision.",
+    "level": "CET-6"
+  },
+  {
+    "word": "psychology",
+    "phonetic": "/saɪˈkɒlədʒi/",
+    "definitions": [
+      "n. 心理学"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Study psychology.",
+    "level": "CET-6"
+  },
+  {
+    "word": "publication",
+    "phonetic": "/ˌpʌblɪˈkeɪʃn/",
+    "definitions": [
+      "n. 出版；出版物"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "New publication.",
+    "level": "CET-6"
+  },
+  {
+    "word": "publicity",
+    "phonetic": "/pəˈblɪsəti/",
+    "definitions": [
+      "n. 公众关注；宣传"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Bad publicity.",
+    "level": "CET-6"
+  },
+  {
+    "word": "public",
+    "phonetic": "/ˈpʌblɪk/",
+    "definitions": [
+      "adj. 公众的；公共的",
+      "n. 公众"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Public opinion.",
+    "level": "CET-6"
+  },
+  {
+    "word": "publish",
+    "phonetic": "/ˈpʌblɪʃ/",
+    "definitions": [
+      "v. 出版；公布"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Publish a book.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pull",
+    "phonetic": "/pʊl/",
+    "definitions": [
+      "v. 拉；拖；吸引",
+      "n. 拉；拖"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Pull the door.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pulse",
+    "phonetic": "/pʌls/",
+    "definitions": [
+      "n. 脉搏；脉冲"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Check pulse.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pump",
+    "phonetic": "/pʌmp/",
+    "definitions": [
+      "n. 泵；抽水机",
+      "v. 泵送"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Water pump.",
+    "level": "CET-6"
+  },
+  {
+    "word": "punctual",
+    "phonetic": "/ˈpʌŋktjuəl/",
+    "definitions": [
+      "adj. 准时的；守时的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Be punctual.",
+    "level": "CET-6"
+  },
+  {
+    "word": "punish",
+    "phonetic": "/ˈpʌnɪʃ/",
+    "definitions": [
+      "v. 惩罚；处罚"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Punish the crime.",
+    "level": "CET-6"
+  },
+  {
+    "word": "punishment",
+    "phonetic": "/ˈpʌnɪʃmənt/",
+    "definitions": [
+      "n. 惩罚；处罚"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Capital punishment.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pupil",
+    "phonetic": "/ˈpuːpl/",
+    "definitions": [
+      "n. 学生；小学生"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Primary pupil.",
+    "level": "CET-6"
+  },
+  {
+    "word": "purchase",
+    "phonetic": "/ˈpɜːrtʃəs/",
+    "definitions": [
+      "n. 购买；购买物",
+      "v. 购买"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Make a purchase.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pure",
+    "phonetic": "/pjuːr/",
+    "definitions": [
+      "adj. 纯的；纯洁的；完全的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Pure water.",
+    "level": "CET-6"
+  },
+  {
+    "word": "purpose",
+    "phonetic": "/ˈpɜːrpəs/",
+    "definitions": [
+      "n. 目的；意图",
+      "v. 打算"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "On purpose.",
+    "level": "CET-6"
+  },
+  {
+    "word": "purse",
+    "phonetic": "/pɜːrs/",
+    "definitions": [
+      "n. 钱包；女用钱包"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Lost purse.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pursue",
+    "phonetic": "/pərˈsuː/",
+    "definitions": [
+      "v. 追求；追逐；从事"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Pursue a career.",
+    "level": "CET-6"
+  },
+  {
+    "word": "pursuit",
+    "phonetic": "/pərˈsuːt/",
+    "definitions": [
+      "n. 追求；追逐；从事"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "In pursuit of.",
+    "level": "CET-6"
+  },
+  {
+    "word": "push",
+    "phonetic": "/pʊʃ/",
+    "definitions": [
+      "v. 推；推进；逼迫",
+      "n. 推；推进"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Push the button.",
+    "level": "CET-6"
+  },
+  {
+    "word": "put",
+    "phonetic": "/pʊt/",
+    "definitions": [
+      "v. 放；安置；表达"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Put away.",
+    "level": "CET-6"
+  },
+  {
+    "word": "puzzle",
+    "phonetic": "/ˈpʌzl/",
+    "definitions": [
+      "n. 谜；难题",
+      "v. 使迷惑"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Solve the puzzle.",
+    "level": "CET-6"
+  },
+  {
+    "word": "qualify",
+    "phonetic": "/ˈkwɒlɪfaɪ/",
+    "definitions": [
+      "v. 使具有资格；限定"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Qualify for the job.",
+    "level": "CET-6"
+  },
+  {
+    "word": "quality",
+    "phonetic": "/ˈkwɒləti/",
+    "definitions": [
+      "n. 质量；品质；特性"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "High quality.",
+    "level": "CET-6"
+  },
+  {
+    "word": "quantity",
+    "phonetic": "/ˈkwɒntəti/",
+    "definitions": [
+      "n. 数量；量"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Large quantity.",
+    "level": "CET-6"
+  },
+  {
+    "word": "quarter",
+    "phonetic": "/ˈkwɔːrtər/",
+    "definitions": [
+      "n. 四分之一；季度；一刻钟"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "First quarter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "queen",
+    "phonetic": "/kwiːn/",
+    "definitions": [
+      "n. 女王；皇后"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "The queen spoke.",
+    "level": "CET-6"
+  },
+  {
+    "word": "question",
+    "phonetic": "/ˈkwestʃən/",
+    "definitions": [
+      "n. 问题；疑问",
+      "v. 询问；质疑"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Ask a question.",
+    "level": "CET-6"
+  },
+  {
+    "word": "quick",
+    "phonetic": "/kwɪk/",
+    "definitions": [
+      "adj. 快的；敏捷的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Quick response.",
+    "level": "CET-6"
+  },
+  {
+    "word": "quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "definitions": [
+      "adj. 安静的；平静的",
+      "n. 安静"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Keep quiet.",
+    "level": "CET-6"
+  },
+  {
+    "word": "quit",
+    "phonetic": "/kwɪt/",
+    "definitions": [
+      "v. 离开；辞职；放弃"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Quit the job.",
+    "level": "CET-6"
+  },
+  {
+    "word": "quite",
+    "phonetic": "/kwaɪt/",
+    "definitions": [
+      "adv. 很；相当"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Quite good.",
+    "level": "CET-6"
+  },
+  {
+    "word": "quote",
+    "phonetic": "/kwoʊt/",
+    "definitions": [
+      "v. 引用；报价",
+      "n. 引语；报价"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Quote the text.",
+    "level": "CET-6"
+  },
+  {
+    "word": "race",
+    "phonetic": "/reɪs/",
+    "definitions": [
+      "n. 赛跑；种族",
+      "v. 比赛；赛跑"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Race car.",
+    "level": "CET-6"
+  },
+  {
+    "word": "racial",
+    "phonetic": "/ˈreɪʃl/",
+    "definitions": [
+      "adj. 种族的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Racial discrimination.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rack",
+    "phonetic": "/ræk/",
+    "definitions": [
+      "n. 架子；支架",
+      "v. 放在架上"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Rack of books.",
+    "level": "CET-6"
+  },
+  {
+    "word": "radar",
+    "phonetic": "/ˈreɪdɑːr/",
+    "definitions": [
+      "n. 雷达"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Radar system.",
+    "level": "CET-6"
+  },
+  {
+    "word": "radiation",
+    "phonetic": "/ˈreɪdiˈeɪʃn/",
+    "definitions": [
+      "n. 辐射；放射"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Solar radiation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "radical",
+    "phonetic": "/ˈrædɪkl/",
+    "definitions": [
+      "adj. 根本的；激进的",
+      "n. 激进分子"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Radical change.",
+    "level": "CET-6"
+  },
+  {
+    "word": "radio",
+    "phonetic": "/ˈreɪdioʊ/",
+    "definitions": [
+      "n. 收音机；无线电",
+      "v. 用无线电发送"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Listen to radio.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rage",
+    "phonetic": "/reɪdʒ/",
+    "definitions": [
+      "n. 愤怒；狂怒",
+      "v. 大发脾气"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Fly into rage.",
+    "level": "CET-6"
+  },
+  {
+    "word": "raid",
+    "phonetic": "/reɪd/",
+    "definitions": [
+      "n. 袭击；突袭",
+      "v. 袭击"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Police raid.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rail",
+    "phonetic": "/reɪl/",
+    "definitions": [
+      "n. 铁轨；栏杆",
+      "v. 用栏杆围"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Railway track.",
+    "level": "CET-6"
+  },
+  {
+    "word": "railway",
+    "phonetic": "/ˈreɪlweɪ/",
+    "definitions": [
+      "n. 铁路"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Railway station.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rain",
+    "phonetic": "/reɪn/",
+    "definitions": [
+      "n. 雨",
+      "v. 下雨"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Heavy rain.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rainbow",
+    "phonetic": "/ˈreɪnboʊ/",
+    "definitions": [
+      "n.彩虹"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Beautiful rainbow.",
+    "level": "CET-6"
+  },
+  {
+    "word": "raise",
+    "phonetic": "/reɪz/",
+    "definitions": [
+      "v. 升起；提高；饲养",
+      "n. 增加；加薪"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Raise the price.",
+    "level": "CET-6"
+  },
+  {
+    "word": "range",
+    "phonetic": "/reɪndʒ/",
+    "definitions": [
+      "n. 范围；山脉；射程",
+      "v. 排列；变化"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Wide range.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rank",
+    "phonetic": "/ræŋk/",
+    "definitions": [
+      "n. 等级；军衔",
+      "v. 排列；归类"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "High rank.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rare",
+    "phonetic": "/reər/",
+    "definitions": [
+      "adj. 稀有的；罕见的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Rare species.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rarely",
+    "phonetic": "/ˈreərli/",
+    "definitions": [
+      "adv. 很少；难得"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Rarely seen.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rate",
+    "phonetic": "/reɪt/",
+    "definitions": [
+      "n. 速率；比率；价格",
+      "v. 评估；评级"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Interest rate.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rather",
+    "phonetic": "/ˈrɑːðər/",
+    "definitions": [
+      "adv. 相当；宁愿"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Rather than.",
+    "level": "CET-6"
+  },
+  {
+    "word": "raw",
+    "phonetic": "/rɔː/",
+    "definitions": [
+      "adj. 生的；未加工的；原始的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Raw material.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ray",
+    "phonetic": "/reɪ/",
+    "definitions": [
+      "n. 光线；射线"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "X-ray.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reach",
+    "phonetic": "/riːtʃ/",
+    "definitions": [
+      "v. 到达；够到；联系",
+      "n. 到达；范围"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Reach out.",
+    "level": "CET-6"
+  },
+  {
+    "word": "react",
+    "phonetic": "/riˈækt/",
+    "definitions": [
+      "v. 反应；起作用"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "React to the news.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reaction",
+    "phonetic": "/riˈækʃn/",
+    "definitions": [
+      "n. 反应；化学反应"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Chain reaction.",
+    "level": "CET-6"
+  },
+  {
+    "word": "read",
+    "phonetic": "/riːd/",
+    "definitions": [
+      "v. 阅读；理解",
+      "n. 阅读"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Read the book.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reader",
+    "phonetic": "/ˈriːdər/",
+    "definitions": [
+      "n. 读者；读本"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Book reader.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reading",
+    "phonetic": "/ˈriːdɪŋ/",
+    "definitions": [
+      "n. 阅读；读物"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Reading skill.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ready",
+    "phonetic": "/ˈredi/",
+    "definitions": [
+      "adj. 准备好的；现成的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Get ready.",
+    "level": "CET-6"
+  },
+  {
+    "word": "real",
+    "phonetic": "/ˈriːəl/",
+    "definitions": [
+      "adj. 真实的；实际的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Real life.",
+    "level": "CET-6"
+  },
+  {
+    "word": "realistic",
+    "phonetic": "/ˌriːəˈlɪstɪk/",
+    "definitions": [
+      "adj. 现实的；现实的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Realistic goal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reality",
+    "phonetic": "/riˈæləti/",
+    "definitions": [
+      "n. 现实；真实"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Face reality.",
+    "level": "CET-6"
+  },
+  {
+    "word": "realize",
+    "phonetic": "/ˈriːəlaɪz/",
+    "definitions": [
+      "v. 实现；意识到"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Realize the dream.",
+    "level": "CET-6"
+  },
+  {
+    "word": "really",
+    "phonetic": "/ˈriːəli/",
+    "definitions": [
+      "adv. 真正地；真的"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Really good.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reason",
+    "phonetic": "/ˈriːzən/",
+    "definitions": [
+      "n. 原因；理由",
+      "v. 推理；劝说"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Give a reason.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reasonable",
+    "phonetic": "/ˈriːzənəbl/",
+    "definitions": [
+      "adj. 合理的；适当的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Reasonable price.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rebel",
+    "phonetic": "/ˈrebl/",
+    "definitions": [
+      "n. 反叛者",
+      "v. 反叛"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Rebel against.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recall",
+    "phonetic": "/riˈkɔːl/",
+    "definitions": [
+      "v. 回忆；召回",
+      "n. 回忆"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Recall the past.",
+    "level": "CET-6"
+  },
+  {
+    "word": "receipt",
+    "phonetic": "/riˈsiːt/",
+    "definitions": [
+      "n. 收据；收到"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Keep the receipt.",
+    "level": "CET-6"
+  },
+  {
+    "word": "receive",
+    "phonetic": "/riˈsiːv/",
+    "definitions": [
+      "v. 收到；接受"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Receive the letter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "receiver",
+    "phonetic": "/riˈsiːvər/",
+    "definitions": [
+      "n. 接收者；接收器"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Phone receiver.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recent",
+    "phonetic": "/ˈriːsnt/",
+    "definitions": [
+      "adj. 近来的；最近的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Recent news.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recently",
+    "phonetic": "/ˈriːsntli/",
+    "definitions": [
+      "adv. 最近；近来"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Recently published.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reception",
+    "phonetic": "/riˈsepʃn/",
+    "definitions": [
+      "n. 接待；招待会；接收"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wedding reception.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recipe",
+    "phonetic": "/ˈresəpi/",
+    "definitions": [
+      "n.食谱；配方"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Cooking recipe.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recite",
+    "phonetic": "/riˈsaɪt/",
+    "definitions": [
+      "v.背诵；朗诵"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Recite the poem.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recognize",
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "definitions": [
+      "v.认出；承认"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Recognize the face.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recognition",
+    "phonetic": "/ˌrekəɡˈnɪʃn/",
+    "definitions": [
+      "n.认出；承认"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Face recognition.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recommend",
+    "phonetic": "/ˈrekəˈmend/",
+    "definitions": [
+      "v. 推荐；建议"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Recommend the book.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recommendation",
+    "phonetic": "/ˌrekəmenˈdeɪʃn/",
+    "definitions": [
+      "n. 推荐；建议"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Make a recommendation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "record",
+    "phonetic": "/ˈrekɔːrd/",
+    "definitions": [
+      "n. 记录；唱片",
+      "v. 记录；录音"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Keep a record.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recorder",
+    "phonetic": "/riˈkɔːrdər/",
+    "definitions": [
+      "n. 录音机；记录者"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Voice recorder.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recover",
+    "phonetic": "/riˈkʌvər/",
+    "definitions": [
+      "v. 恢复；找回"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Recover from illness.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recovery",
+    "phonetic": "/riˈkʌvəri/",
+    "definitions": [
+      "n. 恢复；痊愈"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Economic recovery.",
+    "level": "CET-6"
+  },
+  {
+    "word": "recruit",
+    "phonetic": "/riˈkruːt/",
+    "definitions": [
+      "v. 招募；招聘",
+      "n. 新兵"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Recruit new staff.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reduce",
+    "phonetic": "/riˈduːs/",
+    "definitions": [
+      "v. 减少；降低"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Reduce cost.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reduction",
+    "phonetic": "/riˈdʌkʃn/",
+    "definitions": [
+      "n. 减少；降低"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Price reduction.",
+    "level": "CET-6"
+  },
+  {
+    "word": "refer",
+    "phonetic": "/riˈfɜːr/",
+    "definitions": [
+      "v. 参考；提及；咨询"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Refer to the book.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reference",
+    "phonetic": "/ˈrefrəns/",
+    "definitions": [
+      "n. 参考；参考文献"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Reference book.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reflect",
+    "phonetic": "/riˈflekt/",
+    "definitions": [
+      "v. 反射；反映；思考"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Reflect on the issue.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reflection",
+    "phonetic": "/riˈflektʃn/",
+    "definitions": [
+      "n. 反射；反映；思考"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Deep reflection.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reform",
+    "phonetic": "/riˈfɔːrm/",
+    "definitions": [
+      "n. 改革；改良",
+      "v. 改革；改良"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Economic reform.",
+    "level": "CET-6"
+  },
+  {
+    "word": "refresh",
+    "phonetic": "/riˈfreʃ/",
+    "definitions": [
+      "v. 使清新；使恢复精神"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Refresh the page.",
+    "level": "CET-6"
+  },
+  {
+    "word": "refrigerator",
+    "phonetic": "/riˈfrɪdʒəreɪtər/",
+    "definitions": [
+      "n. 冰箱"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Keep in refrigerator.",
+    "level": "CET-6"
+  },
+  {
+    "word": "refuge",
+    "phonetic": "/ˈrefjuːdʒ/",
+    "definitions": [
+      "n.避难；避难所"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Seek refuge.",
+    "level": "CET-6"
+  },
+  {
+    "word": "refuse",
+    "phonetic": "/riˈfuːz/",
+    "definitions": [
+      "v. 拒绝",
+      "n. 垃圾"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Refuse the offer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "regard",
+    "phonetic": "/riˈgɑːrd/",
+    "definitions": [
+      "v. 看待；认为",
+      "n. 关心；尊重"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Regard as important.",
+    "level": "CET-6"
+  },
+  {
+    "word": "regarding",
+    "phonetic": "/riˈgɑːrdɪŋ/",
+    "definitions": [
+      "prep. 关于；至于"
+    ],
+    "part_of_speech": [
+      "prep."
+    ],
+    "example_sentence": "Regarding the issue.",
+    "level": "CET-6"
+  },
+  {
+    "word": "regardless",
+    "phonetic": "/riˈgɑːrdləs/",
+    "definitions": [
+      "adj. 不顾的；不注意的",
+      "adv. 不顾地"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Regardless of.",
+    "level": "CET-6"
+  },
+  {
+    "word": "region",
+    "phonetic": "/ˈriːdʒən/",
+    "definitions": [
+      "n. 地区；区域"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Economic region.",
+    "level": "CET-6"
+  },
+  {
+    "word": "regional",
+    "phonetic": "/ˈriːdʒənl/",
+    "definitions": [
+      "adj. 地区的；区域的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Regional government.",
+    "level": "CET-6"
+  },
+  {
+    "word": "register",
+    "phonetic": "/ˈredʒɪstər/",
+    "definitions": [
+      "n. 登记；注册",
+      "v. 登记；注册"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Register online.",
+    "level": "CET-6"
+  },
+  {
+    "word": "registration",
+    "phonetic": "/ˌredʒɪˈstreɪʃn/",
+    "definitions": [
+      "n. 登记；注册"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Registration fee.",
+    "level": "CET-6"
+  },
+  {
+    "word": "regret",
+    "phonetic": "/riˈgret/",
+    "definitions": [
+      "n. 后悔；遗憾",
+      "v. 后悔"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "No regrets.",
+    "level": "CET-6"
+  },
+  {
+    "word": "regular",
+    "phonetic": "/ˈregjələr/",
+    "definitions": [
+      "adj. 规律的；定期的；正规的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Regular meeting.",
+    "level": "CET-6"
+  },
+  {
+    "word": "regularly",
+    "phonetic": "/ˈregjələrli/",
+    "definitions": [
+      "adv. 规律地；定期地"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Exercise regularly.",
+    "level": "CET-6"
+  },
+  {
+    "word": "regulate",
+    "phonetic": "/ˈregjəleɪt/",
+    "definitions": [
+      "v. 管理；控制；调节"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Regulate the market.",
+    "level": "CET-6"
+  },
+  {
+    "word": "regulation",
+    "phonetic": "/ˌregjəˈleɪʃn/",
+    "definitions": [
+      "n. 规则；管理"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Safety regulation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reinforce",
+    "phonetic": "/ˌriːɪnˈfɔːrs/",
+    "definitions": [
+      "v. 加强；增援"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Reinforce the wall.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reject",
+    "phonetic": "/riˈdʒekt/",
+    "definitions": [
+      "v. 拒绝；驳回"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Reject the plan.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relate",
+    "phonetic": "/riˈleɪt/",
+    "definitions": [
+      "v. 关联；讲述"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Relate to the issue.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relation",
+    "phonetic": "/riˈleɪʃn/",
+    "definitions": [
+      "n. 关系；联系"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Public relations.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relationship",
+    "phonetic": "/riˈleɪʃnʃɪp/",
+    "definitions": [
+      "n. 关系；联系"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Close relationship.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relative",
+    "phonetic": "/ˈrelətɪv/",
+    "definitions": [
+      "n. 亲戚",
+      "adj. 相对的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Close relative.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relatively",
+    "phonetic": "/ˈrelətɪvli/",
+    "definitions": [
+      "adv. 相对地；比较地"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Relatively easy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relax",
+    "phonetic": "/riˈlæks/",
+    "definitions": [
+      "v. 放松；休息"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Relax and enjoy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relay",
+    "phonetic": "/ˈriːleɪ/",
+    "definitions": [
+      "n. 接力；中继",
+      "v. 中继；转播"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Relay race.",
+    "level": "CET-6"
+  },
+  {
+    "word": "release",
+    "phonetic": "/riˈliːs/",
+    "definitions": [
+      "v. 释放；发布",
+      "n. 释放；发布"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Release the prisoner.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relevant",
+    "phonetic": "/ˈreləvənt/",
+    "definitions": [
+      "adj. 相关的；有关的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Relevant information.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reliable",
+    "phonetic": "/riˈlaɪəbl/",
+    "definitions": [
+      "adj. 可靠的；可信赖的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Reliable source.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reliance",
+    "phonetic": "/riˈlaɪəns/",
+    "definitions": [
+      "n. 依赖；信任"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Self reliance.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relief",
+    "phonetic": "/riˈliːf/",
+    "definitions": [
+      "n. 缓解；救济；安慰"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Tax relief.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relieve",
+    "phonetic": "/riˈliːv/",
+    "definitions": [
+      "v. 缓解；减轻；救济"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Relieve pain.",
+    "level": "CET-6"
+  },
+  {
+    "word": "religion",
+    "phonetic": "/riˈlɪdʒən/",
+    "definitions": [
+      "n. 宗教；信仰"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Study religion.",
+    "level": "CET-6"
+  },
+  {
+    "word": "religious",
+    "phonetic": "/riˈlɪdʒəs/",
+    "definitions": [
+      "adj. 宗教的；虔诚的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Religious belief.",
+    "level": "CET-6"
+  },
+  {
+    "word": "relish",
+    "phonetic": "/ˈrelɪʃ/",
+    "definitions": [
+      "n. 味道；调味品",
+      "v. 享受；品味"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Relish the moment.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reluctant",
+    "phonetic": "/riˈlʌktənt/",
+    "definitions": [
+      "adj. 不情愿的；勉强的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Reluctant to go.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rely",
+    "phonetic": "/riˈlaɪ/",
+    "definitions": [
+      "v. 依赖；依靠"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Rely on yourself.",
+    "level": "CET-6"
+  },
+  {
+    "word": "remain",
+    "phonetic": "/riˈmeɪn/",
+    "definitions": [
+      "v. 保持；剩下"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Remain calm.",
+    "level": "CET-6"
+  },
+  {
+    "word": "remainder",
+    "phonetic": "/riˈmeɪndər/",
+    "definitions": [
+      "n. 剩余物；剩余部分"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "The remainder.",
+    "level": "CET-6"
+  },
+  {
+    "word": "remark",
+    "phonetic": "/riˈmɑːrk/",
+    "definitions": [
+      "n. 评论；注意",
+      "v. 评论；注意到"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Make a remark.",
+    "level": "CET-6"
+  },
+  {
+    "word": "remarkable",
+    "phonetic": "/riˈmɑːrkəbl/",
+    "definitions": [
+      "adj. 显著的；非凡的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Remarkable achievement.",
+    "level": "CET-6"
+  },
+  {
+    "word": "remedy",
+    "phonetic": "/ˈremədi/",
+    "definitions": [
+      "n. 治疗；补救",
+      "v. 治疗；补救"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Find a remedy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "remember",
+    "phonetic": "/riˈmembər/",
+    "definitions": [
+      "v. 记得；记住"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Remember me.",
+    "level": "CET-6"
+  },
+  {
+    "word": "remind",
+    "phonetic": "/riˈmaɪnd/",
+    "definitions": [
+      "v. 提醒；使想起"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Remind me.",
+    "level": "CET-6"
+  },
+  {
+    "word": "remote",
+    "phonetic": "/riˈmoʊt/",
+    "definitions": [
+      "adj. 遥远的；偏僻的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Remote area.",
+    "level": "CET-6"
+  },
+  {
+    "word": "removal",
+    "phonetic": "/riˈmuːvl/",
+    "definitions": [
+      "n. 移动；除去"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Removal service.",
+    "level": "CET-6"
+  },
+  {
+    "word": "remove",
+    "phonetic": "/riˈmuːv/",
+    "definitions": [
+      "v. 移开；除去"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Remove the obstacle.",
+    "level": "CET-6"
+  },
+  {
+    "word": "render",
+    "phonetic": "/ˈrendər/",
+    "definitions": [
+      "v. 使得；提供"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Render service.",
+    "level": "CET-6"
+  },
+  {
+    "word": "renew",
+    "phonetic": "/riˈnuː/",
+    "definitions": [
+      "v. 更新；恢复"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Renew the license.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rent",
+    "phonetic": "/rent/",
+    "definitions": [
+      "n. 租金",
+      "v. 租借"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Pay the rent.",
+    "level": "CET-6"
+  },
+  {
+    "word": "repair",
+    "phonetic": "/riˈpeər/",
+    "definitions": [
+      "n. 修理",
+      "v. 修理"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Repair the car.",
+    "level": "CET-6"
+  },
+  {
+    "word": "repay",
+    "phonetic": "/riˈpeɪ/",
+    "definitions": [
+      "v. 偿还；报答"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Repay the loan.",
+    "level": "CET-6"
+  },
+  {
+    "word": "repeat",
+    "phonetic": "/riˈpiːt/",
+    "definitions": [
+      "v. 重复；复述",
+      "n. 重复"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Repeat the question.",
+    "level": "CET-6"
+  },
+  {
+    "word": "repeatedly",
+    "phonetic": "/riˈpiːtɪdli/",
+    "definitions": [
+      "adv. 重复地；再三地"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Warn repeatedly.",
+    "level": "CET-6"
+  },
+  {
+    "word": "repel",
+    "phonetic": "/riˈpel/",
+    "definitions": [
+      "v. 拒绝；驱逐"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Repel the attack.",
+    "level": "CET-6"
+  },
+  {
+    "word": "replace",
+    "phonetic": "/riˈpleɪs/",
+    "definitions": [
+      "v. 代替；替换"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Replace the part.",
+    "level": "CET-6"
+  },
+  {
+    "word": "replacement",
+    "phonetic": "/riˈpleɪsmənt/",
+    "definitions": [
+      "n. 代替；替换"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Find replacement.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reply",
+    "phonetic": "/riˈplaɪ/",
+    "definitions": [
+      "n. 回答；回复",
+      "v. 回答"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Reply to the email.",
+    "level": "CET-6"
+  },
+  {
+    "word": "report",
+    "phonetic": "/riˈpɔːrt/",
+    "definitions": [
+      "n. 报告；报道",
+      "v. 报告；报道"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Write a report.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reporter",
+    "phonetic": "/riˈpɔːrtər/",
+    "definitions": [
+      "n. 记者；报告者"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "News reporter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "represent",
+    "phonetic": "/ˌreprɪˈzent/",
+    "definitions": [
+      "v. 代表；表示"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Represent the company.",
+    "level": "CET-6"
+  },
+  {
+    "word": "representation",
+    "phonetic": "/ˌreprɪzenˈteɪʃn/",
+    "definitions": [
+      "n. 代表；表现"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Legal representation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "representative",
+    "phonetic": "/ˌreprɪˈzentətɪv/",
+    "definitions": [
+      "n. 代表",
+      "adj. 典型的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Sales representative.",
+    "level": "CET-6"
+  },
+  {
+    "word": "repress",
+    "phonetic": "/riˈpres/",
+    "definitions": [
+      "v. 抑制；镇压"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Repress emotions.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reproduce",
+    "phonetic": "/ˌriːprəˈduːs/",
+    "definitions": [
+      "v. 繁殖；复制"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Reproduce the document.",
+    "level": "CET-6"
+  },
+  {
+    "word": "republic",
+    "phonetic": "/riˈpʌblɪk/",
+    "definitions": [
+      "n. 共和国"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "The Republic.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reputation",
+    "phonetic": "/ˌrepjuˈteɪʃn/",
+    "definitions": [
+      "n. 名誉；名声"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Good reputation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "request",
+    "phonetic": "/riˈkwest/",
+    "definitions": [
+      "n. 要求；请求",
+      "v. 要求；请求"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Make a request.",
+    "level": "CET-6"
+  },
+  {
+    "word": "require",
+    "phonetic": "/riˈkwaɪər/",
+    "definitions": [
+      "v. 需要；要求"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Require payment.",
+    "level": "CET-6"
+  },
+  {
+    "word": "requirement",
+    "phonetic": "/riˈkwaɪərmənt/",
+    "definitions": [
+      "n. 要求；需求"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Job requirement.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rescue",
+    "phonetic": "/ˈreskjuː/",
+    "definitions": [
+      "n. 救援",
+      "v. 救援"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Rescue operation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "research",
+    "phonetic": "/riˈsɜːrtʃ/",
+    "definitions": [
+      "n. 研究；调查",
+      "v. 研究"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Scientific research.",
+    "level": "CET-6"
+  },
+  {
+    "word": "researcher",
+    "phonetic": "/riˈsɜːrtʃər/",
+    "definitions": [
+      "n. 研究人员"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Lead researcher.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resemble",
+    "phonetic": "/riˈzembl/",
+    "definitions": [
+      "v. 相似；类似"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Resemble the father.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resent",
+    "phonetic": "/riˈzent/",
+    "definitions": [
+      "v. 愤恨；怨恨"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Resent the treatment.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reserve",
+    "phonetic": "/riˈzɜːrv/",
+    "definitions": [
+      "n. 储备；保留",
+      "v. 储备；预订"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Reserve a table.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reservior",
+    "phonetic": "/ˈrezərvɔːr/",
+    "definitions": [
+      "n. 水库；储藏"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Water reservoir.",
+    "level": "CET-6"
+  },
+  {
+    "word": "residence",
+    "phonetic": "/ˈrezɪdəns/",
+    "definitions": [
+      "n. 住所；居住"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Permanent residence.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resident",
+    "phonetic": "/ˈrezɪdənt/",
+    "definitions": [
+      "n. 居民",
+      "adj. 居住的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Local resident.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resign",
+    "phonetic": "/riˈzaɪn/",
+    "definitions": [
+      "v. 辞职；放弃"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Resign from the job.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resist",
+    "phonetic": "/riˈzɪst/",
+    "definitions": [
+      "v. 抵抗；抵制"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Resist temptation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resistance",
+    "phonetic": "/riˈzɪstəns/",
+    "definitions": [
+      "n. 抵抗；抵抗力"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Offer resistance.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resistant",
+    "phonetic": "/riˈzɪstənt/",
+    "definitions": [
+      "adj. 抵抗的；耐...的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Heat resistant.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resolution",
+    "phonetic": "/ˌrezəˈluːʃn/",
+    "definitions": [
+      "n. 决议；决心；分辨率"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Make a resolution.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resolve",
+    "phonetic": "/riˈzɒlv/",
+    "definitions": [
+      "v. 解决；决心",
+      "n. 决心"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Resolve the problem.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resource",
+    "phonetic": "/ˈriːsɔːrs/",
+    "definitions": [
+      "n. 资源；财力"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Natural resource.",
+    "level": "CET-6"
+  },
+  {
+    "word": "respect",
+    "phonetic": "/riˈspekt/",
+    "definitions": [
+      "n. 尊敬；尊重",
+      "v. 尊敬"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Show respect.",
+    "level": "CET-6"
+  },
+  {
+    "word": "respectable",
+    "phonetic": "/riˈspektəbl/",
+    "definitions": [
+      "adj. 可敬的；体面的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Respectable person.",
+    "level": "CET-6"
+  },
+  {
+    "word": "respective",
+    "phonetic": "/riˈspektɪv/",
+    "definitions": [
+      "adj. 各自的；分别的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Respective duties.",
+    "level": "CET-6"
+  },
+  {
+    "word": "respond",
+    "phonetic": "/riˈspɒnd/",
+    "definitions": [
+      "v. 回答；响应"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Respond quickly.",
+    "level": "CET-6"
+  },
+  {
+    "word": "response",
+    "phonetic": "/riˈspɒns/",
+    "definitions": [
+      "n. 回答；响应"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Quick response.",
+    "level": "CET-6"
+  },
+  {
+    "word": "responsibility",
+    "phonetic": "/riˌspɒnsəˈbɪləti/",
+    "definitions": [
+      "n. 责任；职责"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Take responsibility.",
+    "level": "CET-6"
+  },
+  {
+    "word": "responsible",
+    "phonetic": "/riˈspɒnsəbl/",
+    "definitions": [
+      "adj. 负责的；可靠的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Responsible person.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rest",
+    "phonetic": "/rest/",
+    "definitions": [
+      "n. 休息；剩余部分",
+      "v. 休息"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Take a rest.",
+    "level": "CET-6"
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "/ˈrestərɑːnt/",
+    "definitions": [
+      "n. 餐厅；饭店"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Nice restaurant.",
+    "level": "CET-6"
+  },
+  {
+    "word": "restless",
+    "phonetic": "/ˈrestləs/",
+    "definitions": [
+      "adj. 不安的；烦躁的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Feel restless.",
+    "level": "CET-6"
+  },
+  {
+    "word": "restore",
+    "phonetic": "/riˈstɔːr/",
+    "definitions": [
+      "v. 恢复；归还"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Restore order.",
+    "level": "CET-6"
+  },
+  {
+    "word": "restrain",
+    "phonetic": "/riˈstreɪn/",
+    "definitions": [
+      "v. 抑制；约束"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Restrain oneself.",
+    "level": "CET-6"
+  },
+  {
+    "word": "restraint",
+    "phonetic": "/riˈstreɪnt/",
+    "definitions": [
+      "n. 抑制；约束"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Show restraint.",
+    "level": "CET-6"
+  },
+  {
+    "word": "restrict",
+    "phonetic": "/riˈstrɪkt/",
+    "definitions": [
+      "v. 限制；约束"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Restrict access.",
+    "level": "CET-6"
+  },
+  {
+    "word": "restriction",
+    "phonetic": "/riˈstrɪkʃn/",
+    "definitions": [
+      "n. 限制；约束"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Trade restriction.",
+    "level": "CET-6"
+  },
+  {
+    "word": "result",
+    "phonetic": "/riˈzʌlt/",
+    "definitions": [
+      "n. 结果；成绩",
+      "v. 导致"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "As a result.",
+    "level": "CET-6"
+  },
+  {
+    "word": "resume",
+    "phonetic": "/riˈzuːm/",
+    "definitions": [
+      "v. 继续；重新开始",
+      "n. 简历"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Resume work.",
+    "level": "CET-6"
+  },
+  {
+    "word": "retain",
+    "phonetic": "/riˈteɪn/",
+    "definitions": [
+      "v. 保持；保留"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Retain information.",
+    "level": "CET-6"
+  },
+  {
+    "word": "retell",
+    "phonetic": "/riˈtel/",
+    "definitions": [
+      "v. 重述；复述"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Retell the story.",
+    "level": "CET-6"
+  },
+  {
+    "word": "retire",
+    "phonetic": "/riˈtaɪər/",
+    "definitions": [
+      "v. 退休；撤退"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Retire early.",
+    "level": "CET-6"
+  },
+  {
+    "word": "retirement",
+    "phonetic": "/riˈtaɪərmənt/",
+    "definitions": [
+      "n. 退休"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Early retirement.",
+    "level": "CET-6"
+  },
+  {
+    "word": "retreat",
+    "phonetic": "/riˈtriːt/",
+    "definitions": [
+      "n. 退却；撤退",
+      "v. 退却"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Retreat from battle.",
+    "level": "CET-6"
+  },
+  {
+    "word": "return",
+    "phonetic": "/riˈtɜːrn/",
+    "definitions": [
+      "v. 返回；归还",
+      "n. 返回；归还"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Return home.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reveal",
+    "phonetic": "/riˈviːl/",
+    "definitions": [
+      "v. 揭示；泄露"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Reveal the truth.",
+    "level": "CET-6"
+  },
+  {
+    "word": "revenue",
+    "phonetic": "/ˈrevənuː/",
+    "definitions": [
+      "n. 收入；税收"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Tax revenue.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reverse",
+    "phonetic": "/riˈvɜːrs/",
+    "definitions": [
+      "adj. 相反的",
+      "n. 相反；反面",
+      "v. 颠倒"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Reverse order.",
+    "level": "CET-6"
+  },
+  {
+    "word": "review",
+    "phonetic": "/riˈvjuː/",
+    "definitions": [
+      "n. 评论；回顾",
+      "v. 评论；复习"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Review the book.",
+    "level": "CET-6"
+  },
+  {
+    "word": "revise",
+    "phonetic": "/riˈvaɪz/",
+    "definitions": [
+      "v. 修改；修订"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Revise the plan.",
+    "level": "CET-6"
+  },
+  {
+    "word": "revolt",
+    "phonetic": "/riˈvoʊlt/",
+    "definitions": [
+      "n. 反叛；起义",
+      "v. 反叛"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Revolt against the government.",
+    "level": "CET-6"
+  },
+  {
+    "word": "revolution",
+    "phonetic": "/ˌrevəˈluːʃn/",
+    "definitions": [
+      "n. 革命"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Industrial revolution.",
+    "level": "CET-6"
+  },
+  {
+    "word": "revolutionary",
+    "phonetic": "/ˌrevəˈluːʃənəri/",
+    "definitions": [
+      "adj. 革命的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Revolutionary change.",
+    "level": "CET-6"
+  },
+  {
+    "word": "reward",
+    "phonetic": "/riˈwɔːrd/",
+    "definitions": [
+      "n. 报酬；奖赏",
+      "v. 奖赏"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Reward good work.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rhythm",
+    "phonetic": "/ˈrɪðəm/",
+    "definitions": [
+      "n. 节奏；韵律"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Musical rhythm.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rib",
+    "phonetic": "/rɪb/",
+    "definitions": [
+      "n. 肋骨"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Broken rib.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ribbon",
+    "phonetic": "/ˈrɪbən/",
+    "definitions": [
+      "n. 丝带；带子"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Red ribbon.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rice",
+    "phonetic": "/raɪs/",
+    "definitions": [
+      "n. 米；米饭"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Cook rice.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rich",
+    "phonetic": "/rɪtʃ/",
+    "definitions": [
+      "adj. 富有的；丰富的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Rich people.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rid",
+    "phonetic": "/rɪd/",
+    "definitions": [
+      "v. 使摆脱；除去"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Get rid of.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ride",
+    "phonetic": "/raɪd/",
+    "definitions": [
+      "n. 乘车；骑",
+      "v. 乘；骑"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Ride a bike.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rider",
+    "phonetic": "/ˈraɪdər/",
+    "definitions": [
+      "n. 骑手；骑马者"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Horse rider.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ridge",
+    "phonetic": "/rɪdʒ/",
+    "definitions": [
+      "n. 山脊；脊"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Mountain ridge.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ridiculous",
+    "phonetic": "/riˈdɪkjələs/",
+    "definitions": [
+      "adj. 可笑的；荒谬的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Ridiculous idea.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rifle",
+    "phonetic": "/ˈraɪfl/",
+    "definitions": [
+      "n. 步枪"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Hunting rifle.",
+    "level": "CET-6"
+  },
+  {
+    "word": "right",
+    "phonetic": "/raɪt/",
+    "definitions": [
+      "adj. 正确的；右边的",
+      "n. 权利；右边",
+      "adv. 正确地"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n.",
+      "adv."
+    ],
+    "example_sentence": "Right answer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rigid",
+    "phonetic": "/ˈrɪdʒɪd/",
+    "definitions": [
+      "adj. 坚硬的；僵硬的；严格的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Rigid rules.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ring",
+    "phonetic": "/rɪŋ/",
+    "definitions": [
+      "n. 环；戒指",
+      "v. 包围；打电话"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Ring the bell.",
+    "level": "CET-6"
+  },
+  {
+    "word": "riot",
+    "phonetic": "/ˈraɪət/",
+    "definitions": [
+      "n. 暴乱；骚乱",
+      "v. 暴乱"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Street riot.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rip",
+    "phonetic": "/rɪp/",
+    "definitions": [
+      "v. 撕裂；撕开",
+      "n. 裂口"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Rip the paper.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ripe",
+    "phonetic": "/raɪp/",
+    "definitions": [
+      "adj. 成熟的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Ripe fruit.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rise",
+    "phonetic": "/raɪz/",
+    "definitions": [
+      "v. 升起；增加",
+      "n. 升起；增加"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Rise early.",
+    "level": "CET-6"
+  },
+  {
+    "word": "risk",
+    "phonetic": "/rɪsk/",
+    "definitions": [
+      "n. 风险",
+      "v. 冒险"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "High risk.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ritual",
+    "phonetic": "/ˈrɪtjuəl/",
+    "definitions": [
+      "n. 仪式；典礼",
+      "adj. 仪式的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Religious ritual.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rival",
+    "phonetic": "/ˈraɪvl/",
+    "definitions": [
+      "n. 竞争对手",
+      "v. 竞争"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Strong rival.",
+    "level": "CET-6"
+  },
+  {
+    "word": "river",
+    "phonetic": "/ˈrɪvər/",
+    "definitions": [
+      "n. 河；河流"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Big river.",
+    "level": "CET-6"
+  },
+  {
+    "word": "road",
+    "phonetic": "/roʊd/",
+    "definitions": [
+      "n. 路；道路"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Main road.",
+    "level": "CET-6"
+  },
+  {
+    "word": "roar",
+    "phonetic": "/rɔːr/",
+    "definitions": [
+      "n. 咆哮；轰鸣",
+      "v. 咆哮"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Roar of lion.",
+    "level": "CET-6"
+  },
+  {
+    "word": "roast",
+    "phonetic": "/roʊst/",
+    "definitions": [
+      "v. 烤；烘烤",
+      "adj. 烤制的"
+    ],
+    "part_of_speech": [
+      "v.",
+      "adj."
+    ],
+    "example_sentence": "Roast beef.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rob",
+    "phonetic": "/rɒb/",
+    "definitions": [
+      "v. 抢劫；盗取"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Rob a bank.",
+    "level": "CET-6"
+  },
+  {
+    "word": "robot",
+    "phonetic": "/ˈroʊbɑːt/",
+    "definitions": [
+      "n. 机器人"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Industrial robot.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rock",
+    "phonetic": "/rɒk/",
+    "definitions": [
+      "n. 石头；摇滚",
+      "v. 摇动"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Rock music.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rocket",
+    "phonetic": "/ˈrɒkɪt/",
+    "definitions": [
+      "n. 火箭",
+      "v. 飞速上升"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Launch rocket.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rod",
+    "phonetic": "/rɒd/",
+    "definitions": [
+      "n. 棒；杆"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Fishing rod.",
+    "level": "CET-6"
+  },
+  {
+    "word": "role",
+    "phonetic": "/roʊl/",
+    "definitions": [
+      "n. 角色；作用"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Play a role.",
+    "level": "CET-6"
+  },
+  {
+    "word": "roll",
+    "phonetic": "/roʊl/",
+    "definitions": [
+      "v. 滚动；卷",
+      "n. 卷；名单"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Roll over.",
+    "level": "CET-6"
+  },
+  {
+    "word": "roller",
+    "phonetic": "/ˈroʊlər/",
+    "definitions": [
+      "n. 滚筒；辊"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Roller coaster.",
+    "level": "CET-6"
+  },
+  {
+    "word": "roman",
+    "phonetic": "/ˈroʊmən/",
+    "definitions": [
+      "adj. 罗马的",
+      "n. 罗马人"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Roman Empire.",
+    "level": "CET-6"
+  },
+  {
+    "word": "romantic",
+    "phonetic": "/roʊˈmæntɪk/",
+    "definitions": [
+      "adj. 浪漫的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Romantic love.",
+    "level": "CET-6"
+  },
+  {
+    "word": "roof",
+    "phonetic": "/ruːf/",
+    "definitions": [
+      "n. 屋顶；顶"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Flat roof.",
+    "level": "CET-6"
+  },
+  {
+    "word": "room",
+    "phonetic": "/ruːm/",
+    "definitions": [
+      "n. 房间；空间"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Big room.",
+    "level": "CET-6"
+  },
+  {
+    "word": "root",
+    "phonetic": "/ruːt/",
+    "definitions": [
+      "n. 根；根源",
+      "v. 生根"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Root cause.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rope",
+    "phonetic": "/roʊp/",
+    "definitions": [
+      "n.绳子；绳索"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Jump rope.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rose",
+    "phonetic": "/roʊz/",
+    "definitions": [
+      "n. 玫瑰；玫瑰花"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Red rose.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rotate",
+    "phonetic": "/ˈroʊteɪt/",
+    "definitions": [
+      "v. 旋转；轮流"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Rotate the wheel.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rotation",
+    "phonetic": "/roʊˈteɪʃn/",
+    "definitions": [
+      "n. 旋转；轮流"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Job rotation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rough",
+    "phonetic": "/rʌf/",
+    "definitions": [
+      "adj. 粗糙的；粗暴的；粗略的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Rough surface.",
+    "level": "CET-6"
+  },
+  {
+    "word": "roughly",
+    "phonetic": "/ˈrʌfli/",
+    "definitions": [
+      "adv. 粗略地；大致地"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Roughly estimate.",
+    "level": "CET-6"
+  },
+  {
+    "word": "round",
+    "phonetic": "/raʊnd/",
+    "definitions": [
+      "adj. 圆的",
+      "n. 圆；回合",
+      "v. 绕行"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Round table.",
+    "level": "CET-6"
+  },
+  {
+    "word": "route",
+    "phonetic": "/raʊt/",
+    "definitions": [
+      "n. 路线；路程"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Flight route.",
+    "level": "CET-6"
+  },
+  {
+    "word": "routine",
+    "phonetic": "/ruːˈtiːn/",
+    "definitions": [
+      "n. 常规；例行公事",
+      "adj. 例行的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Daily routine.",
+    "level": "CET-6"
+  },
+  {
+    "word": "row",
+    "phonetic": "/roʊ/",
+    "definitions": [
+      "n. 行；排",
+      "v. 划船"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Row of seats.",
+    "level": "CET-6"
+  },
+  {
+    "word": "royal",
+    "phonetic": "/ˈroɪəl/",
+    "definitions": [
+      "adj. 王室的；皇家的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Royal family.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rub",
+    "phonetic": "/rʌb/",
+    "definitions": [
+      "v. 摩擦；擦",
+      "n. 摩擦"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Rub your eyes.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rubber",
+    "phonetic": "/ˈrʌbər/",
+    "definitions": [
+      "n. 橡胶；橡皮"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Rubber band.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rubbish",
+    "phonetic": "/ˈrʌbɪʃ/",
+    "definitions": [
+      "n. 垃圾；废物"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Throw rubbish.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rude",
+    "phonetic": "/ruːd/",
+    "definitions": [
+      "adj. 粗鲁的；无礼的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Rude behavior.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rug",
+    "phonetic": "/rʌg/",
+    "definitions": [
+      "n. 小地毯；毛毯"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "A Persian rug.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ruin",
+    "phonetic": "/ˈruːɪn/",
+    "definitions": [
+      "n. 毁灭；废墟",
+      "v. 毁坏；破坏"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "The earthquake ruined the city.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rule",
+    "phonetic": "/ruːl/",
+    "definitions": [
+      "n. 规则；统治",
+      "v. 统治；裁定"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Follow the rules.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ruler",
+    "phonetic": "/ˈruːlər/",
+    "definitions": [
+      "n. 尺子；统治者"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Use a ruler.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rumor",
+    "phonetic": "/ˈruːmər/",
+    "definitions": [
+      "n. 谣言；传闻"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Spread rumors.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rural",
+    "phonetic": "/ˈrʊərəl/",
+    "definitions": [
+      "adj. 农村的；乡下的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Rural area.",
+    "level": "CET-6"
+  },
+  {
+    "word": "rush",
+    "phonetic": "/rʌʃ/",
+    "definitions": [
+      "v. 冲；匆忙",
+      "n. 冲；匆忙"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Don't rush.",
+    "level": "CET-6"
+  }
+]

@@ -1,0 +1,2368 @@
+[
+  {
+    "word": "vacant",
+    "phonetic": "/ˈveɪkənt/",
+    "definitions": [
+      "adj. 空的；空缺的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Vacant seat.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vacation",
+    "phonetic": "/vəˈkeɪʃn/",
+    "definitions": [
+      "n. 假期"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Summer vacation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vacuum",
+    "phonetic": "/ˈvækjuəm/",
+    "definitions": [
+      "n. 真空；真空吸尘器",
+      "adj. 真空的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Vacuum cleaner.",
+    "level": "CET-6"
+  },
+  {
+    "word": "valid",
+    "phonetic": "/ˈvælɪd/",
+    "definitions": [
+      "adj. 有效的；合理的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Valid argument.",
+    "level": "CET-6"
+  },
+  {
+    "word": "value",
+    "phonetic": "/ˈvæljuː/",
+    "definitions": [
+      "n. 价值；价值观",
+      "v. 重视"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "High value.",
+    "level": "CET-6"
+  },
+  {
+    "word": "van",
+    "phonetic": "/væn/",
+    "definitions": [
+      "n. 货车；面包车"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Delivery van.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vanish",
+    "phonetic": "/ˈvænɪʃ/",
+    "definitions": [
+      "v. 消失；不见"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Vanish into thin air.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vanity",
+    "phonetic": "/ˈvænəti/",
+    "definitions": [
+      "n. 自负；虚荣心"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Female vanity.",
+    "level": "CET-6"
+  },
+  {
+    "word": "variety",
+    "phonetic": "/vəˈraɪəti/",
+    "definitions": [
+      "n. 多样性；种类"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wide variety.",
+    "level": "CET-6"
+  },
+  {
+    "word": "various",
+    "phonetic": "/ˈveriəs/",
+    "definitions": [
+      "adj. 各种各样的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Various reasons.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vary",
+    "phonetic": "/ˈveri/",
+    "definitions": [
+      "v. 变化；改变"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Vary from.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vast",
+    "phonetic": "/vɑːst/",
+    "definitions": [
+      "adj. 巨大的；广阔的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Vast area.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vegetable",
+    "phonetic": "/ˈvedʒtəbl/",
+    "definitions": [
+      "n. 蔬菜"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Fresh vegetables.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vehicle",
+    "phonetic": "/ˈviːəkl/",
+    "definitions": [
+      "n. 车辆；交通工具"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Motor vehicle.",
+    "level": "CET-6"
+  },
+  {
+    "word": "version",
+    "phonetic": "/ˈvɜːrʃn/",
+    "definitions": [
+      "n. 版本；译本"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "New version.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vertical",
+    "phonetic": "/ˈvɜːrtɪkl/",
+    "definitions": [
+      "adj. 垂直的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Vertical line.",
+    "level": "CET-6"
+  },
+  {
+    "word": "very",
+    "phonetic": "/ˈveri/",
+    "definitions": [
+      "adv. 非常；很"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Very good.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vessel",
+    "phonetic": "/ˈvesl/",
+    "definitions": [
+      "n. 船；血管"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Blood vessel.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vest",
+    "phonetic": "/vest/",
+    "definitions": [
+      "n. 背心"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Life vest.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vice",
+    "phonetic": "/vaɪs/",
+    "definitions": [
+      "n. 恶习；副职",
+      "adj. 副的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Vice president.",
+    "level": "CET-6"
+  },
+  {
+    "word": "victim",
+    "phonetic": "/ˈvɪktɪm/",
+    "definitions": [
+      "n.受害者；牺牲品"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Crime victim.",
+    "level": "CET-6"
+  },
+  {
+    "word": "victory",
+    "phonetic": "/ˈvɪktəri/",
+    "definitions": [
+      "n. 胜利"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Great victory.",
+    "level": "CET-6"
+  },
+  {
+    "word": "video",
+    "phonetic": "/ˈvɪdiəʊ/",
+    "definitions": [
+      "n. 视频；录像"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Video game.",
+    "level": "CET-6"
+  },
+  {
+    "word": "view",
+    "phonetic": "/vjuː/",
+    "definitions": [
+      "n. 观点；风景",
+      "v. 观看"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Point of view.",
+    "level": "CET-6"
+  },
+  {
+    "word": "viewer",
+    "phonetic": "/ˈvjuːər/",
+    "definitions": [
+      "n. 观看者"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "TV viewers.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vigorous",
+    "phonetic": "/ˈvɪɡərəs/",
+    "definitions": [
+      "adj. 充满活力的；剧烈的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Vigorous exercise.",
+    "level": "CET-6"
+  },
+  {
+    "word": "village",
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "definitions": [
+      "n. 村庄"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Small village.",
+    "level": "CET-6"
+  },
+  {
+    "word": "villain",
+    "phonetic": "/ˈvɪlən/",
+    "definitions": [
+      "n. 恶棍；反派角色"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Movie villain.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vinegar",
+    "phonetic": "/ˈvɪnɪɡər/",
+    "definitions": [
+      "n.醋"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Add vinegar.",
+    "level": "CET-6"
+  },
+  {
+    "word": "violate",
+    "phonetic": "/ˈvaɪəleɪt/",
+    "definitions": [
+      "v. 违反；侵犯"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Violate rules.",
+    "level": "CET-6"
+  },
+  {
+    "word": "violence",
+    "phonetic": "/ˈvaɪələns/",
+    "definitions": [
+      "n. 暴力"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Domestic violence.",
+    "level": "CET-6"
+  },
+  {
+    "word": "violent",
+    "phonetic": "/ˈvaɪələnt/",
+    "definitions": [
+      "adj. 暴力的；剧烈的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Violent crime.",
+    "level": "CET-6"
+  },
+  {
+    "word": "violin",
+    "phonetic": "/ˈvaɪəlɪn/",
+    "definitions": [
+      "n. 小提琴"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Play violin.",
+    "level": "CET-6"
+  },
+  {
+    "word": "virtue",
+    "phonetic": "/ˈvɜːrtjuː/",
+    "definitions": [
+      "n.美德；优点"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "By virtue of.",
+    "level": "CET-6"
+  },
+  {
+    "word": "visible",
+    "phonetic": "/ˈvɪzəbl/",
+    "definitions": [
+      "adj. 可见的；明显的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Visible progress.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vision",
+    "phonetic": "/ˈvɪʒn/",
+    "definitions": [
+      "n. 视力；视野；愿景"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Future vision.",
+    "level": "CET-6"
+  },
+  {
+    "word": "visit",
+    "phonetic": "/ˈvɪzɪt/",
+    "definitions": [
+      "v. 参观；访问",
+      "n. 参观"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Visit friends.",
+    "level": "CET-6"
+  },
+  {
+    "word": "visitor",
+    "phonetic": "/ˈvɪzɪtər/",
+    "definitions": [
+      "n. 参观者；访客"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Welcome visitor.",
+    "level": "CET-6"
+  },
+  {
+    "word": "visual",
+    "phonetic": "/ˈvɪʒuəl/",
+    "definitions": [
+      "adj. 视觉的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Visual art.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vital",
+    "phonetic": "/ˈvaɪtl/",
+    "definitions": [
+      "adj. 至关重要的；生命的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Vital role.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vitamin",
+    "phonetic": "/ˈvɪtəmɪn/",
+    "definitions": [
+      "n. 维生素"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Vitamin C.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vivid",
+    "phonetic": "/ˈvɪvɪd/",
+    "definitions": [
+      "adj. 生动的；鲜艳的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Vivid description.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vocabulary",
+    "phonetic": "/vəˈkæbjələri/",
+    "definitions": [
+      "n.词汇；词汇量"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "English vocabulary.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vocal",
+    "phonetic": "/ˈvəʊkl/",
+    "definitions": [
+      "adj. 嗓音的；直言不讳的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Vocal cords.",
+    "level": "CET-6"
+  },
+  {
+    "word": "voice",
+    "phonetic": "/vɔɪs/",
+    "definitions": [
+      "n. 嗓音；意见"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Loud voice.",
+    "level": "CET-6"
+  },
+  {
+    "word": "volcano",
+    "phonetic": "/vɒlˈkeɪnəʊ/",
+    "definitions": [
+      "n. 火山"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Active volcano.",
+    "level": "CET-6"
+  },
+  {
+    "word": "volume",
+    "phonetic": "/ˈvɒljuːm/",
+    "definitions": [
+      "n. 体积；容量；音量"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Large volume.",
+    "level": "CET-6"
+  },
+  {
+    "word": "voluntary",
+    "phonetic": "/ˈvɒləntəri/",
+    "definitions": [
+      "adj. 自愿的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Voluntary work.",
+    "level": "CET-6"
+  },
+  {
+    "word": "volunteer",
+    "phonetic": "/ˈvɒləntɪər/",
+    "definitions": [
+      "n. 志愿者",
+      "v.自愿"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Volunteer work.",
+    "level": "CET-6"
+  },
+  {
+    "word": "vote",
+    "phonetic": "/vəʊt/",
+    "definitions": [
+      "n. 投票；选票",
+      "v. 投票"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Vote for him.",
+    "level": "CET-6"
+  },
+  {
+    "word": "voyage",
+    "phonetic": "/ˈvɔɪɪdʒ/",
+    "definitions": [
+      "n. 旅行；航程"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Long voyage.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wage",
+    "phonetic": "/weɪdʒ/",
+    "definitions": [
+      "n. 工资",
+      "v. 开展"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Minimum wage.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wait",
+    "phonetic": "/weɪt/",
+    "definitions": [
+      "v. 等待",
+      "n. 等待"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Wait for me.",
+    "level": "CET-6"
+  },
+  {
+    "word": "waiter",
+    "phonetic": "/ˈweɪtər/",
+    "definitions": [
+      "n. 服务员"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Restaurant waiter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wake",
+    "phonetic": "/weɪk/",
+    "definitions": [
+      "v.醒来；唤醒"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Wake up.",
+    "level": "CET-6"
+  },
+  {
+    "word": "walk",
+    "phonetic": "/wɔːk/",
+    "definitions": [
+      "v. 走；散步",
+      "n. 走"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Walk slowly.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wall",
+    "phonetic": "/wɔːl/",
+    "definitions": [
+      "n.墙"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wall street.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wallet",
+    "phonetic": "/ˈwɒlɪt/",
+    "definitions": [
+      "n.钱包"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Lost wallet.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wander",
+    "phonetic": "/ˈwɒndər/",
+    "definitions": [
+      "v. 漫游；徘徊"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Wander around.",
+    "level": "CET-6"
+  },
+  {
+    "word": "want",
+    "phonetic": "/wɒnt/",
+    "definitions": [
+      "v. 想要；需要"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "I want it.",
+    "level": "CET-6"
+  },
+  {
+    "word": "war",
+    "phonetic": "/wɔːr/",
+    "definitions": [
+      "n. 战争"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Civil war.",
+    "level": "CET-6"
+  },
+  {
+    "word": "warm",
+    "phonetic": "/wɔːrm/",
+    "definitions": [
+      "adj. 温暖的",
+      "v. 加热"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Warm weather.",
+    "level": "CET-6"
+  },
+  {
+    "word": "warmth",
+    "phonetic": "/wɔːrmθ/",
+    "definitions": [
+      "n. 温暖；热情"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Family warmth.",
+    "level": "CET-6"
+  },
+  {
+    "word": "warn",
+    "phonetic": "/wɔːrn/",
+    "definitions": [
+      "v. 警告；提醒"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Warn of danger.",
+    "level": "CET-6"
+  },
+  {
+    "word": "warrant",
+    "phonetic": "/ˈwɒrənt/",
+    "definitions": [
+      "n. 授权令；理由",
+      "v. 保证"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Search warrant.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wash",
+    "phonetic": "/wɒʃ/",
+    "definitions": [
+      "v. 洗",
+      "n. 洗"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Wash hands.",
+    "level": "CET-6"
+  },
+  {
+    "word": "waste",
+    "phonetic": "/weɪst/",
+    "definitions": [
+      "n. 废物；浪费",
+      "v. 浪费"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Waste time.",
+    "level": "CET-6"
+  },
+  {
+    "word": "watch",
+    "phonetic": "/wɒtʃ/",
+    "definitions": [
+      "n. 手表",
+      "v. 观看"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Watch TV.",
+    "level": "CET-6"
+  },
+  {
+    "word": "water",
+    "phonetic": "/ˈwɔːtər/",
+    "definitions": [
+      "n. 水",
+      "v. 浇水"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Drink water.",
+    "level": "CET-6"
+  },
+  {
+    "word": "waterproof",
+    "phonetic": "/ˈwɔːtərpruːf/",
+    "definitions": [
+      "adj. 防水的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Waterproof watch.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wave",
+    "phonetic": "/weɪv/",
+    "definitions": [
+      "n. 波浪；挥手",
+      "v. 挥手"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Wave goodbye.",
+    "level": "CET-6"
+  },
+  {
+    "word": "way",
+    "phonetic": "/weɪ/",
+    "definitions": [
+      "n. 道路；方法"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "This way.",
+    "level": "CET-6"
+  },
+  {
+    "word": "we",
+    "phonetic": "/wiː/",
+    "definitions": [
+      "pron. 我们"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "We are happy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "weak",
+    "phonetic": "/wiːk/",
+    "definitions": [
+      "adj. 弱的；虚弱的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Weak point.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wealth",
+    "phonetic": "/welθ/",
+    "definitions": [
+      "n. 财富"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Great wealth.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wealthy",
+    "phonetic": "/ˈwelθi/",
+    "definitions": [
+      "adj. 富有的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Wealthy family.",
+    "level": "CET-6"
+  },
+  {
+    "word": "weapon",
+    "phonetic": "/ˈwepən/",
+    "definitions": [
+      "n. 武器"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Nuclear weapon.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wear",
+    "phonetic": "/weər/",
+    "definitions": [
+      "v. 穿；戴"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Wear clothes.",
+    "level": "CET-6"
+  },
+  {
+    "word": "weather",
+    "phonetic": "/ˈweðər/",
+    "definitions": [
+      "n. 天气"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Bad weather.",
+    "level": "CET-6"
+  },
+  {
+    "word": "weave",
+    "phonetic": "/wiːv/",
+    "definitions": [
+      "v. 编织"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Weave cloth.",
+    "level": "CET-6"
+  },
+  {
+    "word": "web",
+    "phonetic": "/web/",
+    "definitions": [
+      "n. 网；蜘蛛网"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "World Wide Web.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wedding",
+    "phonetic": "/ˈwedɪŋ/",
+    "definitions": [
+      "n. 婚礼"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wedding ceremony.",
+    "level": "CET-6"
+  },
+  {
+    "word": "weed",
+    "phonetic": "/wiːd/",
+    "definitions": [
+      "n.杂草",
+      "v. 除草"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Weed out.",
+    "level": "CET-6"
+  },
+  {
+    "word": "week",
+    "phonetic": "/wiːk/",
+    "definitions": [
+      "n. 周；星期"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Next week.",
+    "level": "CET-6"
+  },
+  {
+    "word": "weekend",
+    "phonetic": "/ˈwiːkend/",
+    "definitions": [
+      "n. 周末"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "At weekend.",
+    "level": "CET-6"
+  },
+  {
+    "word": "weep",
+    "phonetic": "/wiːp/",
+    "definitions": [
+      "v. 哭泣"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Weep for joy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "weigh",
+    "phonetic": "/weɪ/",
+    "definitions": [
+      "v. 称重；权衡"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Weigh the options.",
+    "level": "CET-6"
+  },
+  {
+    "word": "weight",
+    "phonetic": "/weɪt/",
+    "definitions": [
+      "n.重量；重要性"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Lose weight.",
+    "level": "CET-6"
+  },
+  {
+    "word": "welcome",
+    "phonetic": "/ˈwelkəm/",
+    "definitions": [
+      "v. 欢迎",
+      "adj. 受欢迎的"
+    ],
+    "part_of_speech": [
+      "v.",
+      "adj."
+    ],
+    "example_sentence": "Welcome home.",
+    "level": "CET-6"
+  },
+  {
+    "word": "welfare",
+    "phonetic": "/ˈwelfeər/",
+    "definitions": [
+      "n.福利；幸福"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Social welfare.",
+    "level": "CET-6"
+  },
+  {
+    "word": "well",
+    "phonetic": "/wel/",
+    "definitions": [
+      "adv. 很好地",
+      "n. 井",
+      "adj. 健康的"
+    ],
+    "part_of_speech": [
+      "adv.",
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Very well.",
+    "level": "CET-6"
+  },
+  {
+    "word": "well-known",
+    "phonetic": "/ˈwelnəʊn/",
+    "definitions": [
+      "adj. 著名的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Well-known writer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "west",
+    "phonetic": "/west/",
+    "definitions": [
+      "n. 西方",
+      "adj. 西方的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "West coast.",
+    "level": "CET-6"
+  },
+  {
+    "word": "western",
+    "phonetic": "/ˈwestərn/",
+    "definitions": [
+      "adj. 西方的；西部的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Western culture.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wet",
+    "phonetic": "/wet/",
+    "definitions": [
+      "adj.湿的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Wet weather.",
+    "level": "CET-6"
+  },
+  {
+    "word": "what",
+    "phonetic": "/wɒt/",
+    "definitions": [
+      "pron.什么",
+      "adj.什么"
+    ],
+    "part_of_speech": [
+      "pron.",
+      "adj."
+    ],
+    "example_sentence": "What time?",
+    "level": "CET-6"
+  },
+  {
+    "word": "whatever",
+    "phonetic": "/wɒtˈevər/",
+    "definitions": [
+      "pron. 无论什么"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "Whatever happens.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wheat",
+    "phonetic": "/wiːt/",
+    "definitions": [
+      "n.小麦"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wheat field.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wheel",
+    "phonetic": "/wiːl/",
+    "definitions": [
+      "n.轮子"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Car wheel.",
+    "level": "CET-6"
+  },
+  {
+    "word": "when",
+    "phonetic": "/wen/",
+    "definitions": [
+      "adv. 什么时候",
+      "conj. 当...时候"
+    ],
+    "part_of_speech": [
+      "adv.",
+      "conj."
+    ],
+    "example_sentence": "When did it happen?",
+    "level": "CET-6"
+  },
+  {
+    "word": "whenever",
+    "phonetic": "/wenˈevər/",
+    "definitions": [
+      "conj. 无论何时"
+    ],
+    "part_of_speech": [
+      "conj."
+    ],
+    "example_sentence": "Whenever possible.",
+    "level": "CET-6"
+  },
+  {
+    "word": "where",
+    "phonetic": "/weər/",
+    "definitions": [
+      "adv. 哪里",
+      "conj. 在...地方"
+    ],
+    "part_of_speech": [
+      "adv.",
+      "conj."
+    ],
+    "example_sentence": "Where are you?",
+    "level": "CET-6"
+  },
+  {
+    "word": "wherever",
+    "phonetic": "/weərˈevər/",
+    "definitions": [
+      "conj. 无论在哪里"
+    ],
+    "part_of_speech": [
+      "conj."
+    ],
+    "example_sentence": "Wherever you go.",
+    "level": "CET-6"
+  },
+  {
+    "word": "whether",
+    "phonetic": "/ˈweðər/",
+    "definitions": [
+      "conj. 是否"
+    ],
+    "part_of_speech": [
+      "conj."
+    ],
+    "example_sentence": "Whether or not.",
+    "level": "CET-6"
+  },
+  {
+    "word": "which",
+    "phonetic": "/wɪtʃ/",
+    "definitions": [
+      "pron. 哪一个",
+      "adj. 哪个"
+    ],
+    "part_of_speech": [
+      "pron.",
+      "adj."
+    ],
+    "example_sentence": "Which one?",
+    "level": "CET-6"
+  },
+  {
+    "word": "while",
+    "phonetic": "/waɪl/",
+    "definitions": [
+      "conj. 当...时；虽然",
+      "n. 一段时间"
+    ],
+    "part_of_speech": [
+      "conj.",
+      "n."
+    ],
+    "example_sentence": "While waiting.",
+    "level": "CET-6"
+  },
+  {
+    "word": "whisper",
+    "phonetic": "/ˈwɪspər/",
+    "definitions": [
+      "v. 低语",
+      "n. 低语"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Whisper softly.",
+    "level": "CET-6"
+  },
+  {
+    "word": "white",
+    "phonetic": "/waɪt/",
+    "definitions": [
+      "adj. 白色的",
+      "n. 白色"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "White house.",
+    "level": "CET-6"
+  },
+  {
+    "word": "who",
+    "phonetic": "/huː/",
+    "definitions": [
+      "pron. 谁"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "Who are you?",
+    "level": "CET-6"
+  },
+  {
+    "word": "whoever",
+    "phonetic": "/huːˈevər/",
+    "definitions": [
+      "pron. 无论谁"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "Whoever wins.",
+    "level": "CET-6"
+  },
+  {
+    "word": "whole",
+    "phonetic": "/həʊl/",
+    "definitions": [
+      "adj. 整个的",
+      "n. 整体"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Whole day.",
+    "level": "CET-6"
+  },
+  {
+    "word": "whom",
+    "phonetic": "/huːm/",
+    "definitions": [
+      "pron. 谁（宾格）"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "To whom?",
+    "level": "CET-6"
+  },
+  {
+    "word": "whose",
+    "phonetic": "/huːz/",
+    "definitions": [
+      "pron. 谁的"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "Whose book?",
+    "level": "CET-6"
+  },
+  {
+    "word": "why",
+    "phonetic": "/waɪ/",
+    "definitions": [
+      "adv. 为什么"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Why not?",
+    "level": "CET-6"
+  },
+  {
+    "word": "wicked",
+    "phonetic": "/ˈwɪkɪd/",
+    "definitions": [
+      "adj. 邪恶的；淘气的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Wicked witch.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wide",
+    "phonetic": "/waɪd/",
+    "definitions": [
+      "adj. 宽的；广泛的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Wide range.",
+    "level": "CET-6"
+  },
+  {
+    "word": "widespread",
+    "phonetic": "/ˈwaɪdspred/",
+    "definitions": [
+      "adj. 广泛的；普遍的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Widespread support.",
+    "level": "CET-6"
+  },
+  {
+    "word": "widow",
+    "phonetic": "/ˈwɪdəʊ/",
+    "definitions": [
+      "n.寡妇"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Poor widow.",
+    "level": "CET-6"
+  },
+  {
+    "word": "width",
+    "phonetic": "/wɪdθ/",
+    "definitions": [
+      "n.宽度"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Room width.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wife",
+    "phonetic": "/waɪf/",
+    "definitions": [
+      "n.妻子"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "My wife.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wild",
+    "phonetic": "/waɪld/",
+    "definitions": [
+      "adj.野生的；疯狂的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Wild animal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "will",
+    "phonetic": "/wɪl/",
+    "definitions": [
+      "aux. 将要",
+      "n. 意愿；遗嘱"
+    ],
+    "part_of_speech": [
+      "aux.",
+      "n."
+    ],
+    "example_sentence": "I will do it.",
+    "level": "CET-6"
+  },
+  {
+    "word": "willing",
+    "phonetic": "/ˈwɪlɪŋ/",
+    "definitions": [
+      "adj. 愿意的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Willing to help.",
+    "level": "CET-6"
+  },
+  {
+    "word": "win",
+    "phonetic": "/wɪn/",
+    "definitions": [
+      "v. 获胜",
+      "n. 胜利"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Win the game.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wind",
+    "phonetic": "/wɪnd/",
+    "definitions": [
+      "n. 风",
+      "v. 缠绕"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Strong wind.",
+    "level": "CET-6"
+  },
+  {
+    "word": "window",
+    "phonetic": "/ˈwɪndəʊ/",
+    "definitions": [
+      "n.窗户"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Open the window.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wine",
+    "phonetic": "/waɪn/",
+    "definitions": [
+      "n.葡萄酒"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Red wine.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wing",
+    "phonetic": "/wɪŋ/",
+    "definitions": [
+      "n.翅膀"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Bird wing.",
+    "level": "CET-6"
+  },
+  {
+    "word": "winter",
+    "phonetic": "/ˈwɪntər/",
+    "definitions": [
+      "n.冬天"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Cold winter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wipe",
+    "phonetic": "/waɪp/",
+    "definitions": [
+      "v. 擦；抹"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Wipe off.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wire",
+    "phonetic": "/waɪər/",
+    "definitions": [
+      "n.电线；金属丝"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Electric wire.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wisdom",
+    "phonetic": "/ˈwɪzdəm/",
+    "definitions": [
+      "n.智慧"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Great wisdom.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wise",
+    "phonetic": "/waɪz/",
+    "definitions": [
+      "adj. 聪明的；明智的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Wise decision.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wish",
+    "phonetic": "/wɪʃ/",
+    "definitions": [
+      "v. 希望；想要",
+      "n. 希望"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Wish you well.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wit",
+    "phonetic": "/wɪt/",
+    "definitions": [
+      "n. 机智；智力"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Quick wit.",
+    "level": "CET-6"
+  },
+  {
+    "word": "with",
+    "phonetic": "/wɪð/",
+    "definitions": [
+      "prep. 和...一起；用"
+    ],
+    "part_of_speech": [
+      "prep."
+    ],
+    "example_sentence": "With me.",
+    "level": "CET-6"
+  },
+  {
+    "word": "withdraw",
+    "phonetic": "/wɪðˈdrɔː/",
+    "definitions": [
+      "v.收回；撤退"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Withdraw money.",
+    "level": "CET-6"
+  },
+  {
+    "word": "within",
+    "phonetic": "/wɪˈðɪn/",
+    "definitions": [
+      "prep. 在...之内"
+    ],
+    "part_of_speech": [
+      "prep."
+    ],
+    "example_sentence": "Within limits.",
+    "level": "CET-6"
+  },
+  {
+    "word": "without",
+    "phonetic": "/wɪˈðaʊt/",
+    "definitions": [
+      "prep. 没有"
+    ],
+    "part_of_speech": [
+      "prep."
+    ],
+    "example_sentence": "Without doubt.",
+    "level": "CET-6"
+  },
+  {
+    "word": "witness",
+    "phonetic": "/ˈwɪtnəs/",
+    "definitions": [
+      "n. 目击者",
+      "v. 目击"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Witness the event.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wolf",
+    "phonetic": "/wʊlf/",
+    "definitions": [
+      "n. 狼"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wolf pack.",
+    "level": "CET-6"
+  },
+  {
+    "word": "woman",
+    "phonetic": "/ˈwʊmən/",
+    "definitions": [
+      "n. 女人"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Strong woman.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wonder",
+    "phonetic": "/ˈwʌndər/",
+    "definitions": [
+      "v. 想知道",
+      "n. 奇迹；惊奇"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Wonder why.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wonderful",
+    "phonetic": "/ˈwʌndərfl/",
+    "definitions": [
+      "adj. 美妙的；极好的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Wonderful time.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wood",
+    "phonetic": "/wʊd/",
+    "definitions": [
+      "n.木头；森林"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wood floor.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wooden",
+    "phonetic": "/ˈwʊdən/",
+    "definitions": [
+      "adj. 木制的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Wooden table.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wool",
+    "phonetic": "/wʊl/",
+    "definitions": [
+      "n.羊毛"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wool sweater.",
+    "level": "CET-6"
+  },
+  {
+    "word": "word",
+    "phonetic": "/wɜːrd/",
+    "definitions": [
+      "n.单词；话语"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Keep your word.",
+    "level": "CET-6"
+  },
+  {
+    "word": "work",
+    "phonetic": "/wɜːrk/",
+    "definitions": [
+      "v. 工作",
+      "n. 工作"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Work hard.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worker",
+    "phonetic": "/ˈwɜːrkər/",
+    "definitions": [
+      "n. 工人；工作者"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Factory worker.",
+    "level": "CET-6"
+  },
+  {
+    "word": "workshop",
+    "phonetic": "/ˈwɜːrkʃɒp/",
+    "definitions": [
+      "n. 工作坊；车间"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Training workshop.",
+    "level": "CET-6"
+  },
+  {
+    "word": "world",
+    "phonetic": "/wɜːrld/",
+    "definitions": [
+      "n. 世界"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "World peace.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worldwide",
+    "phonetic": "/ˈwɜːrldwaɪd/",
+    "definitions": [
+      "adj. 全世界的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Worldwide fame.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worm",
+    "phonetic": "/wɜːrm/",
+    "definitions": [
+      "n.虫"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Earth worm.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worry",
+    "phonetic": "/ˈwʌri/",
+    "definitions": [
+      "v.担心",
+      "n. 焦虑"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Don't worry.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worship",
+    "phonetic": "/ˈwɜːrʃɪp/",
+    "definitions": [
+      "n.崇拜",
+      "v. 崇拜"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Worship god.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worst",
+    "phonetic": "/wɜːrst/",
+    "definitions": [
+      "adj. 最坏的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Worst case.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worth",
+    "phonetic": "/wɜːrθ/",
+    "definitions": [
+      "n. 价值",
+      "adj. 值得的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Worth doing.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worthless",
+    "phonetic": "/ˈwɜːrθləs/",
+    "definitions": [
+      "adj. 无价值的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Worthless junk.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worthwhile",
+    "phonetic": "/ˈwɜːrθwaɪl/",
+    "definitions": [
+      "adj. 值得做的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Worthwhile effort.",
+    "level": "CET-6"
+  },
+  {
+    "word": "worthy",
+    "phonetic": "/ˈwɜːrði/",
+    "definitions": [
+      "adj. 有价值的；值得的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Worthy cause.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wound",
+    "phonetic": "/wuːnd/",
+    "definitions": [
+      "n.伤口",
+      "v. 受伤"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Deep wound.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wrap",
+    "phonetic": "/ræp/",
+    "definitions": [
+      "v. 包；裹"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Wrap up.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wrath",
+    "phonetic": "/ræθ/",
+    "definitions": [
+      "n.愤怒"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "God's wrath.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wreck",
+    "phonetic": "/rek/",
+    "definitions": [
+      "n. 残骸",
+      "v. 破坏"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Ship wreck.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wrist",
+    "phonetic": "/rɪst/",
+    "definitions": [
+      "n.手腕"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Wrist watch.",
+    "level": "CET-6"
+  },
+  {
+    "word": "write",
+    "phonetic": "/raɪt/",
+    "definitions": [
+      "v. 写"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Write a letter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "writer",
+    "phonetic": "/ˈraɪtər/",
+    "definitions": [
+      "n.作家"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Famous writer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "writing",
+    "phonetic": "/ˈraɪtɪŋ/",
+    "definitions": [
+      "n. 写作"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Writing skills.",
+    "level": "CET-6"
+  },
+  {
+    "word": "wrong",
+    "phonetic": "/rɒŋ/",
+    "definitions": [
+      "adj. 错误的",
+      "adv. 错误地"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Wrong answer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yard",
+    "phonetic": "/jɑːrd/",
+    "definitions": [
+      "n.院子；码"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Back yard.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yawn",
+    "phonetic": "/jɔːn/",
+    "definitions": [
+      "v. 打哈欠",
+      "n. 哈欠"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Yawn loudly.",
+    "level": "CET-6"
+  },
+  {
+    "word": "year",
+    "phonetic": "/jɪər/",
+    "definitions": [
+      "n.年"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "New year.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yearly",
+    "phonetic": "/ˈjɪərli/",
+    "definitions": [
+      "adj. 每年的",
+      "adv. 每年"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Yearly meeting.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yearn",
+    "phonetic": "/jɜːrn/",
+    "definitions": [
+      "v.渴望；向往"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Yearn for freedom.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yell",
+    "phonetic": "/jel/",
+    "definitions": [
+      "v. 大叫",
+      "n. 大叫声"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Yell at him.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yellow",
+    "phonetic": "/ˈjeləʊ/",
+    "definitions": [
+      "adj. 黄色的",
+      "n. 黄色"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Yellow flower.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yes",
+    "phonetic": "/jes/",
+    "definitions": [
+      "adv. 是"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Yes, please.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "/ˈjestədeɪ/",
+    "definitions": [
+      "n. 昨天",
+      "adv. 昨天"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adv."
+    ],
+    "example_sentence": "Yesterday evening.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yet",
+    "phonetic": "/jet/",
+    "definitions": [
+      "adv. 还；尚未"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Not yet.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yield",
+    "phonetic": "/jiːld/",
+    "definitions": [
+      "v. 生产；屈服",
+      "n. 产量"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "High yield.",
+    "level": "CET-6"
+  },
+  {
+    "word": "you",
+    "phonetic": "/juː/",
+    "definitions": [
+      "pron. 你；你们"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "You are welcome.",
+    "level": "CET-6"
+  },
+  {
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "definitions": [
+      "adj. 年轻的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Young people.",
+    "level": "CET-6"
+  },
+  {
+    "word": "your",
+    "phonetic": "/jɔːr/",
+    "definitions": [
+      "pron. 你的；你们的"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "Your turn.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yours",
+    "phonetic": "/jɔːrz/",
+    "definitions": [
+      "pron. 你的（东西）"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "This is yours.",
+    "level": "CET-6"
+  },
+  {
+    "word": "yourself",
+    "phonetic": "/jɔːrˈself/",
+    "definitions": [
+      "pron. 你自己"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "Do it yourself.",
+    "level": "CET-6"
+  },
+  {
+    "word": "youth",
+    "phonetic": "/juːθ/",
+    "definitions": [
+      "n. 青年；青春"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Youth group.",
+    "level": "CET-6"
+  },
+  {
+    "word": "zero",
+    "phonetic": "/ˈzɪərəʊ/",
+    "definitions": [
+      "n. 零"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Zero tolerance.",
+    "level": "CET-6"
+  },
+  {
+    "word": "zone",
+    "phonetic": "/zəʊn/",
+    "definitions": [
+      "n. 区域；地带"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Time zone.",
+    "level": "CET-6"
+  }
+]

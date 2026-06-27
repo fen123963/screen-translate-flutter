@@ -1,0 +1,3206 @@
+[
+  {
+    "word": "sacred",
+    "phonetic": "/ˈseɪkrɪd/",
+    "definitions": [
+      "adj. 神圣的；庄严的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Sacred temple.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sacrifice",
+    "phonetic": "/ˈsækrɪfaɪs/",
+    "definitions": [
+      "n. 牺牲；祭品",
+      "v. 牺牲"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Make a sacrifice.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sad",
+    "phonetic": "/sæd/",
+    "definitions": [
+      "adj. 悲伤的；难过的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Sad news.",
+    "level": "CET-6"
+  },
+  {
+    "word": "saddle",
+    "phonetic": "/ˈsædl/",
+    "definitions": [
+      "n. 马鞍",
+      "v. 给马装鞍"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Saddle a horse.",
+    "level": "CET-6"
+  },
+  {
+    "word": "safe",
+    "phonetic": "/seɪf/",
+    "definitions": [
+      "adj. 安全的",
+      "n. 保险箱"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Stay safe.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sail",
+    "phonetic": "/seɪl/",
+    "definitions": [
+      "n. 帆；航行",
+      "v. 航行；起航"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Sail across the ocean.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sailor",
+    "phonetic": "/ˈseɪlər/",
+    "definitions": [
+      "n. 水手；船员"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Experienced sailor.",
+    "level": "CET-6"
+  },
+  {
+    "word": "saint",
+    "phonetic": "/seɪnt/",
+    "definitions": [
+      "n. 圣徒；圣人"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Saint Peter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sake",
+    "phonetic": "/seɪk/",
+    "definitions": [
+      "n. 缘故；利益"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "For the sake of safety.",
+    "level": "CET-6"
+  },
+  {
+    "word": "salary",
+    "phonetic": "/ˈsæləri/",
+    "definitions": [
+      "n. 薪水；工资"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "High salary.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sale",
+    "phonetic": "/seɪl/",
+    "definitions": [
+      "n. 出售；销售；拍卖"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "On sale.",
+    "level": "CET-6"
+  },
+  {
+    "word": "salesman",
+    "phonetic": "/ˈseɪlzmən/",
+    "definitions": [
+      "n. 推销员；售货员"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Car salesman.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sample",
+    "phonetic": "/ˈsæmpl/",
+    "definitions": [
+      "n. 样品；样本",
+      "vt. 抽样检查"
+    ],
+    "part_of_speech": [
+      "n.",
+      "vt."
+    ],
+    "example_sentence": "Sample survey.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sanction",
+    "phonetic": "/ˈsæŋkʃn/",
+    "definitions": [
+      "n. 制裁；批准",
+      "v. 批准；制裁"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Economic sanctions.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sand",
+    "phonetic": "/sænd/",
+    "definitions": [
+      "n. 沙子",
+      "v. 用砂纸磨"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Sand on the beach.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sandwich",
+    "phonetic": "/ˈsænwɪtʃ/",
+    "definitions": [
+      "n. 三明治",
+      "v. 夹在中间"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Ham sandwich.",
+    "level": "CET-6"
+  },
+  {
+    "word": "satellite",
+    "phonetic": "/ˈsætəlaɪt/",
+    "definitions": [
+      "n. 卫星；人造卫星"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Weather satellite.",
+    "level": "CET-6"
+  },
+  {
+    "word": "satisfaction",
+    "phonetic": "/ˌsætɪsˈfækʃn/",
+    "definitions": [
+      "n. 满意；满足"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Customer satisfaction.",
+    "level": "CET-6"
+  },
+  {
+    "word": "satisfy",
+    "phonetic": "/ˈsætɪsfaɪ/",
+    "definitions": [
+      "v. 使满意；满足"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Satisfy the needs.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sauce",
+    "phonetic": "/sɔːs/",
+    "definitions": [
+      "n. 酱汁；调味汁"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Tomato sauce.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sausage",
+    "phonetic": "/ˈsɔːsɪdʒ/",
+    "definitions": [
+      "n. 香肠"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Grilled sausage.",
+    "level": "CET-6"
+  },
+  {
+    "word": "save",
+    "phonetic": "/seɪv/",
+    "definitions": [
+      "v. 节省；拯救；保存"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Save money.",
+    "level": "CET-6"
+  },
+  {
+    "word": "saw",
+    "phonetic": "/sɔː/",
+    "definitions": [
+      "n. 锯子",
+      "v. 锯"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Use a saw.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scale",
+    "phonetic": "/skeɪl/",
+    "definitions": [
+      "n. 规模；比例；刻度",
+      "v. 攀登"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Large scale.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scan",
+    "phonetic": "/skæn/",
+    "definitions": [
+      "v. 扫描；浏览",
+      "n. 扫描"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Scan the document.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scandal",
+    "phonetic": "/ˈskændl/",
+    "definitions": [
+      "n. 丑闻；流言蜚语"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Political scandal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scare",
+    "phonetic": "/skeər/",
+    "definitions": [
+      "v. 惊吓；害怕",
+      "n. 恐慌"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Scare away.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scatter",
+    "phonetic": "/ˈskætər/",
+    "definitions": [
+      "v. 分散；散开",
+      "n. 分散"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Scatter the seeds.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scene",
+    "phonetic": "/siːn/",
+    "definitions": [
+      "n. 场景；场面；景象"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Crime scene.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scenery",
+    "phonetic": "/ˈsiːnəri/",
+    "definitions": [
+      "n. 风景；景色"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Beautiful scenery.",
+    "level": "CET-6"
+  },
+  {
+    "word": "schedule",
+    "phonetic": "/ˈʃedjuːl/",
+    "definitions": [
+      "n. 时间表；计划表",
+      "v. 安排"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "On schedule.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scheme",
+    "phonetic": "/skiːm/",
+    "definitions": [
+      "n. 计划；方案",
+      "v. 策划"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Business scheme.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scholar",
+    "phonetic": "/ˈskɒlər/",
+    "definitions": [
+      "n. 学者"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Famous scholar.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scholarship",
+    "phonetic": "/ˈskɒləʃɪp/",
+    "definitions": [
+      "n. 奖学金；学问"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Get a scholarship.",
+    "level": "CET-6"
+  },
+  {
+    "word": "school",
+    "phonetic": "/skuːl/",
+    "definitions": [
+      "n. 学校；学派"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Primary school.",
+    "level": "CET-6"
+  },
+  {
+    "word": "science",
+    "phonetic": "/ˈsaɪəns/",
+    "definitions": [
+      "n. 科学；学科"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Natural science.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scientific",
+    "phonetic": "/ˌsaɪənˈtɪfɪk/",
+    "definitions": [
+      "adj. 科学的；科学性的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Scientific method.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "definitions": [
+      "n. 科学家"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Research scientist.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scissors",
+    "phonetic": "/ˈsɪzərz/",
+    "definitions": [
+      "n. 剪刀"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Use scissors.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scold",
+    "phonetic": "/skəʊld/",
+    "definitions": [
+      "v. 责骂；训斥"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Scold a child.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scope",
+    "phonetic": "/skəʊp/",
+    "definitions": [
+      "n. 范围；眼界；机会"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Within the scope.",
+    "level": "CET-6"
+  },
+  {
+    "word": "score",
+    "phonetic": "/skɔːr/",
+    "definitions": [
+      "n. 分数；得分",
+      "v. 得分；评分"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "High score.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scrape",
+    "phonetic": "/skreɪp/",
+    "definitions": [
+      "v. 刮；擦伤",
+      "n. 刮；擦伤"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Scrape off.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scratch",
+    "phonetic": "/skrætʃ/",
+    "definitions": [
+      "v. 抓；挠",
+      "n. 抓痕"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Scratch the surface.",
+    "level": "CET-6"
+  },
+  {
+    "word": "scream",
+    "phonetic": "/skriːm/",
+    "definitions": [
+      "v. 尖叫",
+      "n. 尖叫声"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Scream for help.",
+    "level": "CET-6"
+  },
+  {
+    "word": "screen",
+    "phonetic": "/skriːn/",
+    "definitions": [
+      "n. 屏幕；银幕",
+      "v. 筛选"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Computer screen.",
+    "level": "CET-6"
+  },
+  {
+    "word": "screw",
+    "phonetic": "/skruː/",
+    "definitions": [
+      "n. 螺丝",
+      "v. 拧紧"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Screwdriver.",
+    "level": "CET-6"
+  },
+  {
+    "word": "script",
+    "phonetic": "/skrɪpt/",
+    "definitions": [
+      "n. 剧本；脚本；手稿"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Movie script.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sea",
+    "phonetic": "/siː/",
+    "definitions": [
+      "n. 海；海洋"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Deep sea.",
+    "level": "CET-6"
+  },
+  {
+    "word": "seal",
+    "phonetic": "/siːl/",
+    "definitions": [
+      "n. 海豹；印章",
+      "v. 密封"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Official seal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "search",
+    "phonetic": "/sɜːrtʃ/",
+    "definitions": [
+      "v. 搜寻；搜索",
+      "n. 搜寻"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Search engine.",
+    "level": "CET-6"
+  },
+  {
+    "word": "season",
+    "phonetic": "/ˈsiːzn/",
+    "definitions": [
+      "n. 季节；时期",
+      "v. 调味"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Holiday season.",
+    "level": "CET-6"
+  },
+  {
+    "word": "seat",
+    "phonetic": "/siːt/",
+    "definitions": [
+      "n. 座位",
+      "v. 使就座"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Take a seat.",
+    "level": "CET-6"
+  },
+  {
+    "word": "second",
+    "phonetic": "/ˈsekənd/",
+    "definitions": [
+      "n. 秒；第二名",
+      "adj. 第二的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Second chance.",
+    "level": "CET-6"
+  },
+  {
+    "word": "secondary",
+    "phonetic": "/ˈsekəndri/",
+    "definitions": [
+      "adj. 次要的；中学的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Secondary school.",
+    "level": "CET-6"
+  },
+  {
+    "word": "secret",
+    "phonetic": "/ˈsiːkrət/",
+    "definitions": [
+      "adj. 秘密的",
+      "n. 秘密"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Keep a secret.",
+    "level": "CET-6"
+  },
+  {
+    "word": "secretary",
+    "phonetic": "/ˈsekrəteri/",
+    "definitions": [
+      "n. 秘书；书记"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Personal secretary.",
+    "level": "CET-6"
+  },
+  {
+    "word": "section",
+    "phonetic": "/ˈsekʃn/",
+    "definitions": [
+      "n. 部分；章节"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "This section.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sector",
+    "phonetic": "/ˈsektər/",
+    "definitions": [
+      "n. 部门；区域"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Private sector.",
+    "level": "CET-6"
+  },
+  {
+    "word": "secure",
+    "phonetic": "/sɪˈkjʊər/",
+    "definitions": [
+      "adj. 安全的；稳固的",
+      "v. 获得；保护"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Secure job.",
+    "level": "CET-6"
+  },
+  {
+    "word": "security",
+    "phonetic": "/sɪˈkjʊərəti/",
+    "definitions": [
+      "n. 安全；保障"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "National security.",
+    "level": "CET-6"
+  },
+  {
+    "word": "see",
+    "phonetic": "/siː/",
+    "definitions": [
+      "v. 看见；理解"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "See you later.",
+    "level": "CET-6"
+  },
+  {
+    "word": "seed",
+    "phonetic": "/siːd/",
+    "definitions": [
+      "n. 种子",
+      "v. 播种"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Plant seeds.",
+    "level": "CET-6"
+  },
+  {
+    "word": "seek",
+    "phonetic": "/siːk/",
+    "definitions": [
+      "v. 寻求；寻找"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Seek advice.",
+    "level": "CET-6"
+  },
+  {
+    "word": "seem",
+    "phonetic": "/siːm/",
+    "definitions": [
+      "v. 似乎；看起来"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "It seems true.",
+    "level": "CET-6"
+  },
+  {
+    "word": "seize",
+    "phonetic": "/siːz/",
+    "definitions": [
+      "v. 抓住；夺取"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Seize the opportunity.",
+    "level": "CET-6"
+  },
+  {
+    "word": "select",
+    "phonetic": "/sɪˈlekt/",
+    "definitions": [
+      "v. 选择；挑选",
+      "adj. 精选的"
+    ],
+    "part_of_speech": [
+      "v.",
+      "adj."
+    ],
+    "example_sentence": "Select carefully.",
+    "level": "CET-6"
+  },
+  {
+    "word": "selection",
+    "phonetic": "/sɪˈlekʃn/",
+    "definitions": [
+      "n. 选择；挑选"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Natural selection.",
+    "level": "CET-6"
+  },
+  {
+    "word": "self",
+    "phonetic": "/self/",
+    "definitions": [
+      "n. 自己；自我"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Self-confidence.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sell",
+    "phonetic": "/sel/",
+    "definitions": [
+      "v. 卖；出售"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Sell out.",
+    "level": "CET-6"
+  },
+  {
+    "word": "send",
+    "phonetic": "/send/",
+    "definitions": [
+      "v. 发送；派遣"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Send a message.",
+    "level": "CET-6"
+  },
+  {
+    "word": "senior",
+    "phonetic": "/ˈsiːniər/",
+    "definitions": [
+      "adj. 高级的；年长的",
+      "n. 年长者；大四学生"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Senior manager.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sense",
+    "phonetic": "/sens/",
+    "definitions": [
+      "n. 感觉；意义",
+      "v. 感到"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Common sense.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sensitive",
+    "phonetic": "/ˈsensətɪv/",
+    "definitions": [
+      "adj. 敏感的；过敏的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Sensitive skin.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sentence",
+    "phonetic": "/ˈsentəns/",
+    "definitions": [
+      "n. 句子；判决",
+      "v. 判决"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Complete sentence.",
+    "level": "CET-6"
+  },
+  {
+    "word": "separate",
+    "phonetic": "/ˈsepəreɪt/",
+    "definitions": [
+      "v. 分离；分开",
+      "adj. 分开的"
+    ],
+    "part_of_speech": [
+      "v.",
+      "adj."
+    ],
+    "example_sentence": "Separate ways.",
+    "level": "CET-6"
+  },
+  {
+    "word": "september",
+    "phonetic": "/sepˈtembər/",
+    "definitions": [
+      "n. 九月"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "September 1st.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sequence",
+    "phonetic": "/ˈsiːkwəns/",
+    "definitions": [
+      "n. 顺序；序列"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "In sequence.",
+    "level": "CET-6"
+  },
+  {
+    "word": "series",
+    "phonetic": "/ˈsɪriːz/",
+    "definitions": [
+      "n. 系列；连续"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "TV series.",
+    "level": "CET-6"
+  },
+  {
+    "word": "serious",
+    "phonetic": "/ˈsɪəriəs/",
+    "definitions": [
+      "adj. 严肃的；严重的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Serious problem.",
+    "level": "CET-6"
+  },
+  {
+    "word": "servant",
+    "phonetic": "/ˈsɜːrvənt/",
+    "definitions": [
+      "n. 仆人；公务员"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Civil servant.",
+    "level": "CET-6"
+  },
+  {
+    "word": "serve",
+    "phonetic": "/sɜːrv/",
+    "definitions": [
+      "v. 服务；服役"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Serve the people.",
+    "level": "CET-6"
+  },
+  {
+    "word": "service",
+    "phonetic": "/ˈsɜːrvɪs/",
+    "definitions": [
+      "n. 服务；维修"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Customer service.",
+    "level": "CET-6"
+  },
+  {
+    "word": "session",
+    "phonetic": "/ˈseʃn/",
+    "definitions": [
+      "n. 会议；学期；会话"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Training session.",
+    "level": "CET-6"
+  },
+  {
+    "word": "set",
+    "phonetic": "/set/",
+    "definitions": [
+      "v. 设置；放置",
+      "n. 一套；集合"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Set goals.",
+    "level": "CET-6"
+  },
+  {
+    "word": "settle",
+    "phonetic": "/ˈsetl/",
+    "definitions": [
+      "v. 解决；定居"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Settle down.",
+    "level": "CET-6"
+  },
+  {
+    "word": "settlement",
+    "phonetic": "/ˈsetlmənt/",
+    "definitions": [
+      "n. 解决；定居点"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Peace settlement.",
+    "level": "CET-6"
+  },
+  {
+    "word": "seven",
+    "phonetic": "/ˈsevn/",
+    "definitions": [
+      "num. 七；七个"
+    ],
+    "part_of_speech": [
+      "num."
+    ],
+    "example_sentence": "Seven days.",
+    "level": "CET-6"
+  },
+  {
+    "word": "several",
+    "phonetic": "/ˈsevrəl/",
+    "definitions": [
+      "adj. 几个的；若干"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Several times.",
+    "level": "CET-6"
+  },
+  {
+    "word": "severe",
+    "phonetic": "/sɪˈvɪər/",
+    "definitions": [
+      "adj. 严厉的；严重的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Severe weather.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sew",
+    "phonetic": "/səʊ/",
+    "definitions": [
+      "v. 缝纫；缝"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Sew clothes.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sex",
+    "phonetic": "/seks/",
+    "definitions": [
+      "n. 性别；性"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Sex discrimination.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shade",
+    "phonetic": "/ʃeɪd/",
+    "definitions": [
+      "n. 阴影；遮阳",
+      "v. 遮蔽"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "In the shade.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shadow",
+    "phonetic": "/ˈʃædəʊ/",
+    "definitions": [
+      "n. 影子；阴影"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Cast a shadow.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shake",
+    "phonetic": "/ʃeɪk/",
+    "definitions": [
+      "v. 摇动；震动",
+      "n. 摇动"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Shake hands.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shall",
+    "phonetic": "/ʃæl/",
+    "definitions": [
+      "aux. 将要；会"
+    ],
+    "part_of_speech": [
+      "aux."
+    ],
+    "example_sentence": "We shall see.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shallow",
+    "phonetic": "/ˈʃæləʊ/",
+    "definitions": [
+      "adj. 浅的；肤浅的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Shallow water.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shame",
+    "phonetic": "/ʃeɪm/",
+    "definitions": [
+      "n. 羞耻；遗憾",
+      "v. 使羞愧"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "What a shame.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shape",
+    "phonetic": "/ʃeɪp/",
+    "definitions": [
+      "n. 形状",
+      "v. 塑造"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "In good shape.",
+    "level": "CET-6"
+  },
+  {
+    "word": "share",
+    "phonetic": "/ʃeər/",
+    "definitions": [
+      "v. 分享；共有",
+      "n. 份额"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Share with others.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sharp",
+    "phonetic": "/ʃɑːrp/",
+    "definitions": [
+      "adj. 锋利的；尖锐的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Sharp knife.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shave",
+    "phonetic": "/ʃeɪv/",
+    "definitions": [
+      "v. 剃；刮",
+      "n. 剃须"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Shave beard.",
+    "level": "CET-6"
+  },
+  {
+    "word": "she",
+    "phonetic": "/ʃiː/",
+    "definitions": [
+      "pron. 她"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "She is happy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shed",
+    "phonetic": "/ʃed/",
+    "definitions": [
+      "n. 棚；小屋",
+      "v. 流；脱落"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Garden shed.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sheep",
+    "phonetic": "/ʃiːp/",
+    "definitions": [
+      "n. 羊；绵羊"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "A flock of sheep.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sheet",
+    "phonetic": "/ʃiːt/",
+    "definitions": [
+      "n. 床单；一张；薄片"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Bed sheet.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shelf",
+    "phonetic": "/ʃelf/",
+    "definitions": [
+      "n. 架子；搁板"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Book shelf.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shell",
+    "phonetic": "/ʃel/",
+    "definitions": [
+      "n. 壳；贝壳",
+      "v. 剥壳"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Sea shell.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shelter",
+    "phonetic": "/ˈʃeltər/",
+    "definitions": [
+      "n. 庇护所；避难所",
+      "v. 庇护"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Take shelter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shift",
+    "phonetic": "/ʃɪft/",
+    "definitions": [
+      "v. 转移；改变",
+      "n. 轮班；改变"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Day shift.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shine",
+    "phonetic": "/ʃaɪn/",
+    "definitions": [
+      "v. 照耀；发光",
+      "n. 光泽"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Shine bright.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ship",
+    "phonetic": "/ʃɪp/",
+    "definitions": [
+      "n. 船；舰",
+      "v. 运输"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Cargo ship.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shirt",
+    "phonetic": "/ʃɜːrt/",
+    "definitions": [
+      "n. 衬衫"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "White shirt.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shock",
+    "phonetic": "/ʃɒk/",
+    "definitions": [
+      "n. 震惊；休克",
+      "v. 使震惊"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Shock news.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shoe",
+    "phonetic": "/ʃuː/",
+    "definitions": [
+      "n. 鞋"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "A pair of shoes.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shoot",
+    "phonetic": "/ʃuːt/",
+    "definitions": [
+      "v. 射击；拍摄",
+      "n. 射击"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Shoot a goal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shop",
+    "phonetic": "/ʃɒp/",
+    "definitions": [
+      "n. 商店",
+      "v. 购物"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Go shopping.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shore",
+    "phonetic": "/ʃɔːr/",
+    "definitions": [
+      "n. 岸；岸边"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "On the shore.",
+    "level": "CET-6"
+  },
+  {
+    "word": "short",
+    "phonetic": "/ʃɔːrt/",
+    "definitions": [
+      "adj. 短的；矮的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Short cut.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shortage",
+    "phonetic": "/ˈʃɔːrtɪdʒ/",
+    "definitions": [
+      "n. 缺乏；不足"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Water shortage.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shortcoming",
+    "phonetic": "/ˈʃɔːrtkʌmɪŋ/",
+    "definitions": [
+      "n. 缺点；短处"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Overcome shortcomings.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shortly",
+    "phonetic": "/ˈʃɔːrtli/",
+    "definitions": [
+      "adv. 不久；很快"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Shortly after.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shot",
+    "phonetic": "/ʃɒt/",
+    "definitions": [
+      "n. 射击；镜头",
+      "v. shoot的过去式"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Take a shot.",
+    "level": "CET-6"
+  },
+  {
+    "word": "should",
+    "phonetic": "/ʃʊd/",
+    "definitions": [
+      "aux. 应该；将要"
+    ],
+    "part_of_speech": [
+      "aux."
+    ],
+    "example_sentence": "You should go.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shoulder",
+    "phonetic": "/ˈʃəʊldər/",
+    "definitions": [
+      "n. 肩膀",
+      "v. 承担"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Shrug shoulders.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shout",
+    "phonetic": "/ʃaʊt/",
+    "definitions": [
+      "v. 喊叫",
+      "n. 喊叫声"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Shout out.",
+    "level": "CET-6"
+  },
+  {
+    "word": "show",
+    "phonetic": "/ʃəʊ/",
+    "definitions": [
+      "v. 展示；证明",
+      "n. 展览；表演"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Show me.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shower",
+    "phonetic": "/ˈʃaʊər/",
+    "definitions": [
+      "n. 淋浴；阵雨",
+      "v. 下阵雨"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Take a shower.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shrink",
+    "phonetic": "/ʃrɪŋk/",
+    "definitions": [
+      "v. 收缩；缩小"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Shrink in size.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shut",
+    "phonetic": "/ʃʌt/",
+    "definitions": [
+      "v. 关闭；关上",
+      "adj. 关闭的"
+    ],
+    "part_of_speech": [
+      "v.",
+      "adj."
+    ],
+    "example_sentence": "Shut down.",
+    "level": "CET-6"
+  },
+  {
+    "word": "shy",
+    "phonetic": "/ʃaɪ/",
+    "definitions": [
+      "adj. 害羞的；胆小的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Shy girl.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sick",
+    "phonetic": "/sɪk/",
+    "definitions": [
+      "adj. 生病的；恶心的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Feel sick.",
+    "level": "CET-6"
+  },
+  {
+    "word": "side",
+    "phonetic": "/saɪd/",
+    "definitions": [
+      "n. 侧面；方面",
+      "adj. 侧面的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Side effect.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sigh",
+    "phonetic": "/saɪ/",
+    "definitions": [
+      "v. 叹气",
+      "n. 叹气声"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Sigh deeply.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sight",
+    "phonetic": "/saɪt/",
+    "definitions": [
+      "n. 视力；景象",
+      "v. 看见"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Out of sight.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sign",
+    "phonetic": "/saɪn/",
+    "definitions": [
+      "n. 迹象；标志",
+      "v. 签名"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Sign here.",
+    "level": "CET-6"
+  },
+  {
+    "word": "signal",
+    "phonetic": "/ˈsɪɡnəl/",
+    "definitions": [
+      "n. 信号；标志",
+      "v. 发信号"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Traffic signal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "signature",
+    "phonetic": "/ˈsɪɡnətʃər/",
+    "definitions": [
+      "n. 签名；签字"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Your signature.",
+    "level": "CET-6"
+  },
+  {
+    "word": "significance",
+    "phonetic": "/sɪɡˈnɪfɪkəns/",
+    "definitions": [
+      "n. 重要性；意义"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Great significance.",
+    "level": "CET-6"
+  },
+  {
+    "word": "significant",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "definitions": [
+      "adj. 重要的；显著的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Significant progress.",
+    "level": "CET-6"
+  },
+  {
+    "word": "silence",
+    "phonetic": "/ˈsaɪləns/",
+    "definitions": [
+      "n. 沉默；寂静"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Keep silence.",
+    "level": "CET-6"
+  },
+  {
+    "word": "silent",
+    "phonetic": "/ˈsaɪlənt/",
+    "definitions": [
+      "adj. 沉默的；安静的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Silent night.",
+    "level": "CET-6"
+  },
+  {
+    "word": "silk",
+    "phonetic": "/sɪlk/",
+    "definitions": [
+      "n. 丝绸"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Silk dress.",
+    "level": "CET-6"
+  },
+  {
+    "word": "silly",
+    "phonetic": "/ˈsɪli/",
+    "definitions": [
+      "adj. 愚蠢的；傻的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Don't be silly.",
+    "level": "CET-6"
+  },
+  {
+    "word": "silver",
+    "phonetic": "/ˈsɪlvər/",
+    "definitions": [
+      "n. 银",
+      "adj. 银色的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Silver medal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "similar",
+    "phonetic": "/ˈsɪmɪlər/",
+    "definitions": [
+      "adj. 相似的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Similar to.",
+    "level": "CET-6"
+  },
+  {
+    "word": "simple",
+    "phonetic": "/ˈsɪmpl/",
+    "definitions": [
+      "adj. 简单的；朴素的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Simple question.",
+    "level": "CET-6"
+  },
+  {
+    "word": "simplicity",
+    "phonetic": "/sɪmˈplɪsəti/",
+    "definitions": [
+      "n. 简单；朴素"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Simplicity is beauty.",
+    "level": "CET-6"
+  },
+  {
+    "word": "simplify",
+    "phonetic": "/ˈsɪmplɪfaɪ/",
+    "definitions": [
+      "v. 简化"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Simplify the process.",
+    "level": "CET-6"
+  },
+  {
+    "word": "since",
+    "phonetic": "/sɪns/",
+    "definitions": [
+      "prep. 自从",
+      "conj. 因为；自从"
+    ],
+    "part_of_speech": [
+      "prep.",
+      "conj."
+    ],
+    "example_sentence": "Since then.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sincere",
+    "phonetic": "/sɪnˈsɪər/",
+    "definitions": [
+      "adj. 真诚的；诚挚的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Sincere thanks.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sing",
+    "phonetic": "/sɪŋ/",
+    "definitions": [
+      "v. 唱歌"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Sing a song.",
+    "level": "CET-6"
+  },
+  {
+    "word": "singer",
+    "phonetic": "/ˈsɪŋər/",
+    "definitions": [
+      "n. 歌手"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Famous singer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "single",
+    "phonetic": "/ˈsɪŋɡl/",
+    "definitions": [
+      "adj. 单一的；单身的",
+      "n. 单个"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Single room.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sink",
+    "phonetic": "/sɪŋk/",
+    "definitions": [
+      "v. 下沉；沉没",
+      "n. 水槽"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Sink or swim.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sir",
+    "phonetic": "/sɜːr/",
+    "definitions": [
+      "n. 先生；爵士"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Yes, sir.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sister",
+    "phonetic": "/ˈsɪstər/",
+    "definitions": [
+      "n. 姐妹"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Younger sister.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sit",
+    "phonetic": "/sɪt/",
+    "definitions": [
+      "v. 坐；坐落"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Sit down.",
+    "level": "CET-6"
+  },
+  {
+    "word": "site",
+    "phonetic": "/saɪt/",
+    "definitions": [
+      "n. 地点；网站"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Construction site.",
+    "level": "CET-6"
+  },
+  {
+    "word": "situation",
+    "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+    "definitions": [
+      "n. 情况；位置"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Current situation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "six",
+    "phonetic": "/sɪks/",
+    "definitions": [
+      "num. 六；六个"
+    ],
+    "part_of_speech": [
+      "num."
+    ],
+    "example_sentence": "Six months.",
+    "level": "CET-6"
+  },
+  {
+    "word": "size",
+    "phonetic": "/saɪz/",
+    "definitions": [
+      "n. 大小；尺寸"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Large size.",
+    "level": "CET-6"
+  },
+  {
+    "word": "skate",
+    "phonetic": "/skeɪt/",
+    "definitions": [
+      "v. 滑冰",
+      "n. 溜冰鞋"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Ice skate.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sketch",
+    "phonetic": "/sketʃ/",
+    "definitions": [
+      "n. 素描；草图",
+      "v. 画素描"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Sketch map.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ski",
+    "phonetic": "/skiː/",
+    "definitions": [
+      "v. 滑雪",
+      "n. 滑雪板"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Go skiing.",
+    "level": "CET-6"
+  },
+  {
+    "word": "skill",
+    "phonetic": "/skɪl/",
+    "definitions": [
+      "n. 技能；技巧"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Communication skill.",
+    "level": "CET-6"
+  },
+  {
+    "word": "skilled",
+    "phonetic": "/skɪld/",
+    "definitions": [
+      "adj. 熟练的；有技能的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Skilled worker.",
+    "level": "CET-6"
+  },
+  {
+    "word": "skin",
+    "phonetic": "/skɪn/",
+    "definitions": [
+      "n. 皮肤；皮",
+      "v. 剥皮"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Skin care.",
+    "level": "CET-6"
+  },
+  {
+    "word": "skirt",
+    "phonetic": "/skɜːrt/",
+    "definitions": [
+      "n. 裙子"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Long skirt.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sky",
+    "phonetic": "/skaɪ/",
+    "definitions": [
+      "n. 天空"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Blue sky.",
+    "level": "CET-6"
+  },
+  {
+    "word": "slave",
+    "phonetic": "/sleɪv/",
+    "definitions": [
+      "n. 奴隶"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Slave trade.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sleep",
+    "phonetic": "/sliːp/",
+    "definitions": [
+      "v. 睡觉",
+      "n. 睡眠"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Go to sleep.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sleeve",
+    "phonetic": "/sliːv/",
+    "definitions": [
+      "n. 袖子"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Long sleeve.",
+    "level": "CET-6"
+  },
+  {
+    "word": "slice",
+    "phonetic": "/slaɪs/",
+    "definitions": [
+      "n. 薄片；切片",
+      "v. 切片"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Slice of bread.",
+    "level": "CET-6"
+  },
+  {
+    "word": "slide",
+    "phonetic": "/slaɪd/",
+    "definitions": [
+      "v. 滑动",
+      "n. 滑动；幻灯片"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Slide show.",
+    "level": "CET-6"
+  },
+  {
+    "word": "slight",
+    "phonetic": "/slaɪt/",
+    "definitions": [
+      "adj. 轻微的；细小的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Slight difference.",
+    "level": "CET-6"
+  },
+  {
+    "word": "slim",
+    "phonetic": "/slɪm/",
+    "definitions": [
+      "adj. 苗条的；纤细的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Slim figure.",
+    "level": "CET-6"
+  },
+  {
+    "word": "slip",
+    "phonetic": "/slɪp/",
+    "definitions": [
+      "v. 滑倒；溜走",
+      "n. 滑倒；失误"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Slip on ice.",
+    "level": "CET-6"
+  },
+  {
+    "word": "slipper",
+    "phonetic": "/ˈslɪpər/",
+    "definitions": [
+      "n. 拖鞋"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Pair of slippers.",
+    "level": "CET-6"
+  },
+  {
+    "word": "slope",
+    "phonetic": "/sləʊp/",
+    "definitions": [
+      "n. 斜坡；倾斜",
+      "v. 倾斜"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Steep slope.",
+    "level": "CET-6"
+  },
+  {
+    "word": "slow",
+    "phonetic": "/sləʊ/",
+    "definitions": [
+      "adj. 慢的",
+      "v. 减慢"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Slow down.",
+    "level": "CET-6"
+  },
+  {
+    "word": "small",
+    "phonetic": "/smɔːl/",
+    "definitions": [
+      "adj. 小的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Small size.",
+    "level": "CET-6"
+  },
+  {
+    "word": "smart",
+    "phonetic": "/smɑːrt/",
+    "definitions": [
+      "adj. 聪明的；时髦的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Smart phone.",
+    "level": "CET-6"
+  },
+  {
+    "word": "smell",
+    "phonetic": "/smel/",
+    "definitions": [
+      "v. 闻；有气味",
+      "n. 气味"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Good smell.",
+    "level": "CET-6"
+  },
+  {
+    "word": "smile",
+    "phonetic": "/smaɪl/",
+    "definitions": [
+      "v. 微笑",
+      "n. 微笑"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Smile at me.",
+    "level": "CET-6"
+  },
+  {
+    "word": "smoke",
+    "phonetic": "/sməʊk/",
+    "definitions": [
+      "n. 烟",
+      "v. 吸烟"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "No smoking.",
+    "level": "CET-6"
+  },
+  {
+    "word": "smooth",
+    "phonetic": "/smuːð/",
+    "definitions": [
+      "adj. 光滑的；平稳的",
+      "v. 使平滑"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Smooth surface.",
+    "level": "CET-6"
+  },
+  {
+    "word": "snake",
+    "phonetic": "/sneɪk/",
+    "definitions": [
+      "n. 蛇"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Poisonous snake.",
+    "level": "CET-6"
+  },
+  {
+    "word": "snow",
+    "phonetic": "/snəʊ/",
+    "definitions": [
+      "n. 雪",
+      "v. 下雪"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Heavy snow.",
+    "level": "CET-6"
+  },
+  {
+    "word": "so",
+    "phonetic": "/səʊ/",
+    "definitions": [
+      "adv. 如此；这么",
+      "conj. 所以"
+    ],
+    "part_of_speech": [
+      "adv.",
+      "conj."
+    ],
+    "example_sentence": "So far so good.",
+    "level": "CET-6"
+  },
+  {
+    "word": "soap",
+    "phonetic": "/səʊp/",
+    "definitions": [
+      "n. 肥皂"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Soap opera.",
+    "level": "CET-6"
+  },
+  {
+    "word": "so-called",
+    "phonetic": "/ˌsəʊˈkɔːld/",
+    "definitions": [
+      "adj. 所谓的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "So-called expert.",
+    "level": "CET-6"
+  },
+  {
+    "word": "soccer",
+    "phonetic": "/ˈsɒkər/",
+    "definitions": [
+      "n. 足球"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Play soccer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "social",
+    "phonetic": "/ˈsəʊʃl/",
+    "definitions": [
+      "adj. 社会的；社交的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Social media.",
+    "level": "CET-6"
+  },
+  {
+    "word": "society",
+    "phonetic": "/səˈsaɪəti/",
+    "definitions": [
+      "n. 社会；社团"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Civil society.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sock",
+    "phonetic": "/sɒk/",
+    "definitions": [
+      "n. 袜子"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "A pair of socks.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sofa",
+    "phonetic": "/ˈsəʊfə/",
+    "definitions": [
+      "n. 沙发"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Sit on the sofa.",
+    "level": "CET-6"
+  },
+  {
+    "word": "soft",
+    "phonetic": "/sɒft/",
+    "definitions": [
+      "adj. 软的；温柔的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Soft drink.",
+    "level": "CET-6"
+  },
+  {
+    "word": "software",
+    "phonetic": "/ˈsɒftweər/",
+    "definitions": [
+      "n. 软件"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Computer software.",
+    "level": "CET-6"
+  },
+  {
+    "word": "soil",
+    "phonetic": "/sɔɪl/",
+    "definitions": [
+      "n. 土壤；土地",
+      "v. 弄脏"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Fertile soil.",
+    "level": "CET-6"
+  },
+  {
+    "word": "solar",
+    "phonetic": "/ˈsəʊlər/",
+    "definitions": [
+      "adj. 太阳的；太阳能的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Solar energy.",
+    "level": "CET-6"
+  },
+  {
+    "word": "soldier",
+    "phonetic": "/ˈsəʊldʒər/",
+    "definitions": [
+      "n. 士兵"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Brave soldier.",
+    "level": "CET-6"
+  },
+  {
+    "word": "solid",
+    "phonetic": "/ˈsɒlɪd/",
+    "definitions": [
+      "adj. 固体的；坚固的",
+      "n. 固体"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Solid foundation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "solution",
+    "phonetic": "/səˈluːʃn/",
+    "definitions": [
+      "n. 解决办法；溶液"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Find a solution.",
+    "level": "CET-6"
+  },
+  {
+    "word": "solve",
+    "phonetic": "/sɒlv/",
+    "definitions": [
+      "v. 解决；解答"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Solve the problem.",
+    "level": "CET-6"
+  },
+  {
+    "word": "some",
+    "phonetic": "/sʌm/",
+    "definitions": [
+      "adj. 一些；某些",
+      "pron. 一些"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "pron."
+    ],
+    "example_sentence": "Some people.",
+    "level": "CET-6"
+  },
+  {
+    "word": "somebody",
+    "phonetic": "/ˈsʌmbədi/",
+    "definitions": [
+      "pron. 有人；某人"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "Somebody is knocking.",
+    "level": "CET-6"
+  },
+  {
+    "word": "somehow",
+    "phonetic": "/ˈsʌmhaʊ/",
+    "definitions": [
+      "adv. 不知怎地；以某种方式"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Somehow managed.",
+    "level": "CET-6"
+  },
+  {
+    "word": "someone",
+    "phonetic": "/ˈsʌmwʌn/",
+    "definitions": [
+      "pron. 有人；某人"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "Someone special.",
+    "level": "CET-6"
+  },
+  {
+    "word": "something",
+    "phonetic": "/ˈsʌmθɪŋ/",
+    "definitions": [
+      "pron. 某事；某物"
+    ],
+    "part_of_speech": [
+      "pron."
+    ],
+    "example_sentence": "Something new.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sometimes",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "definitions": [
+      "adv. 有时；间或"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Sometimes later.",
+    "level": "CET-6"
+  },
+  {
+    "word": "somewhat",
+    "phonetic": "/ˈsʌmwɒt/",
+    "definitions": [
+      "adv. 稍微；有点"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Somewhat difficult.",
+    "level": "CET-6"
+  },
+  {
+    "word": "somewhere",
+    "phonetic": "/ˈsʌmweər/",
+    "definitions": [
+      "adv. 某处；在某处"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "Somewhere else.",
+    "level": "CET-6"
+  },
+  {
+    "word": "son",
+    "phonetic": "/sʌn/",
+    "definitions": [
+      "n. 儿子"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "My son.",
+    "level": "CET-6"
+  },
+  {
+    "word": "song",
+    "phonetic": "/sɒŋ/",
+    "definitions": [
+      "n. 歌；歌曲"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Pop song.",
+    "level": "CET-6"
+  },
+  {
+    "word": "soon",
+    "phonetic": "/suːn/",
+    "definitions": [
+      "adv. 很快；不久"
+    ],
+    "part_of_speech": [
+      "adv."
+    ],
+    "example_sentence": "See you soon.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sophisticated",
+    "phonetic": "/səˈfɪstɪkeɪtɪd/",
+    "definitions": [
+      "adj. 复杂的；精致的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Sophisticated technology.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sore",
+    "phonetic": "/sɔːr/",
+    "definitions": [
+      "adj. 疼痛的；恼火的",
+      "n. 痛处"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Sore throat.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sorrow",
+    "phonetic": "/ˈsɒrəʊ/",
+    "definitions": [
+      "n. 悲伤；遗憾"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Express sorrow.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sorry",
+    "phonetic": "/ˈsɒri/",
+    "definitions": [
+      "adj. 抱歉的；难过的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "I'm sorry.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sort",
+    "phonetic": "/sɔːrt/",
+    "definitions": [
+      "n. 种类；类别",
+      "v. 分类"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Sort out.",
+    "level": "CET-6"
+  },
+  {
+    "word": "soul",
+    "phonetic": "/səʊl/",
+    "definitions": [
+      "n. 灵魂；精神"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Body and soul.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sound",
+    "phonetic": "/saʊnd/",
+    "definitions": [
+      "n. 声音",
+      "v. 听起来",
+      "adj. 健全的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v.",
+      "adj."
+    ],
+    "example_sentence": "Sound good.",
+    "level": "CET-6"
+  },
+  {
+    "word": "soup",
+    "phonetic": "/suːp/",
+    "definitions": [
+      "n. 汤"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Chicken soup.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sour",
+    "phonetic": "/ˈsaʊər/",
+    "definitions": [
+      "adj. 酸的；馊的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Sour taste.",
+    "level": "CET-6"
+  },
+  {
+    "word": "source",
+    "phonetic": "/sɔːrs/",
+    "definitions": [
+      "n. 来源；源头"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Information source.",
+    "level": "CET-6"
+  },
+  {
+    "word": "south",
+    "phonetic": "/saʊθ/",
+    "definitions": [
+      "n. 南方",
+      "adj. 南方的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "South America.",
+    "level": "CET-6"
+  },
+  {
+    "word": "southern",
+    "phonetic": "/ˈsʌðərn/",
+    "definitions": [
+      "adj. 南方的；南部的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Southern China.",
+    "level": "CET-6"
+  },
+  {
+    "word": "space",
+    "phonetic": "/speɪs/",
+    "definitions": [
+      "n. 空间；太空"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Outer space.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spare",
+    "phonetic": "/speər/",
+    "definitions": [
+      "adj. 备用的；多余的",
+      "v. 抽出；饶恕"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Spare time.",
+    "level": "CET-6"
+  },
+  {
+    "word": "speak",
+    "phonetic": "/spiːk/",
+    "definitions": [
+      "v. 说话；演讲"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Speak English.",
+    "level": "CET-6"
+  },
+  {
+    "word": "speaker",
+    "phonetic": "/ˈspiːkər/",
+    "definitions": [
+      "n. 演讲者；扬声器"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Native speaker.",
+    "level": "CET-6"
+  },
+  {
+    "word": "special",
+    "phonetic": "/ˈspeʃl/",
+    "definitions": [
+      "adj. 特别的；专门的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Special offer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "specialist",
+    "phonetic": "/ˈspeʃəlɪst/",
+    "definitions": [
+      "n. 专家；专科医生"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Language specialist.",
+    "level": "CET-6"
+  },
+  {
+    "word": "specialize",
+    "phonetic": "/ˈspeʃəlaɪz/",
+    "definitions": [
+      "v. 专门研究；专攻"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Specialize in medicine.",
+    "level": "CET-6"
+  },
+  {
+    "word": "species",
+    "phonetic": "/ˈspiːʃiːz/",
+    "definitions": [
+      "n. 物种；种类"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Endangered species.",
+    "level": "CET-6"
+  },
+  {
+    "word": "specific",
+    "phonetic": "/spəˈsɪfɪk/",
+    "definitions": [
+      "adj. 具体的；明确的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Specific purpose.",
+    "level": "CET-6"
+  },
+  {
+    "word": "speech",
+    "phonetic": "/spiːtʃ/",
+    "definitions": [
+      "n. 演讲；言语"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Make a speech.",
+    "level": "CET-6"
+  },
+  {
+    "word": "speed",
+    "phonetic": "/spiːd/",
+    "definitions": [
+      "n. 速度",
+      "v. 加速"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "High speed.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spell",
+    "phonetic": "/spel/",
+    "definitions": [
+      "v. 拼写",
+      "n. 咒语；一段时间"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Spell the word.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spend",
+    "phonetic": "/spend/",
+    "definitions": [
+      "v. 花费；度过"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Spend money.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sphere",
+    "phonetic": "/sfɪər/",
+    "definitions": [
+      "n. 球体；领域；范围"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Sphere of influence.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spill",
+    "phonetic": "/spɪl/",
+    "definitions": [
+      "v. 溢出；洒出"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Spill the beans.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spin",
+    "phonetic": "/spɪn/",
+    "definitions": [
+      "v. 旋转；纺纱",
+      "n. 旋转"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Spin around.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spirit",
+    "phonetic": "/ˈspɪrɪt/",
+    "definitions": [
+      "n. 精神；灵魂；情绪"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Team spirit.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spiritual",
+    "phonetic": "/ˈspɪrɪtʃuəl/",
+    "definitions": [
+      "adj. 精神的；心灵的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Spiritual growth.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spite",
+    "phonetic": "/spaɪt/",
+    "definitions": [
+      "n. 恶意；怨恨",
+      "v. 刁难"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "In spite of.",
+    "level": "CET-6"
+  },
+  {
+    "word": "split",
+    "phonetic": "/splɪt/",
+    "definitions": [
+      "v. 分裂；分开",
+      "n. 分裂"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Split up.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spoil",
+    "phonetic": "/spɔɪl/",
+    "definitions": [
+      "v. 溺爱；破坏"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Spoil the fun.",
+    "level": "CET-6"
+  },
+  {
+    "word": "sponsor",
+    "phonetic": "/ˈspɒnsər/",
+    "definitions": [
+      "n. 赞助商；发起人",
+      "v. 赞助"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Event sponsor.",
+    "level": "CET-6"
+  },
+  {
+    "word": "spoon",
+    "phonetic": "/spuːn/",
+    "definitions": [
+      "n. 勺子；调羹"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Tea spoon.",
+    "level": "CET-6"
+  }
+]

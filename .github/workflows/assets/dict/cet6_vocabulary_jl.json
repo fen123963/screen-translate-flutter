@@ -1,0 +1,1384 @@
+[
+  {
+    "word": "jail",
+    "phonetic": "/dʒeɪl/",
+    "definitions": [
+      "n. 监狱；看守所",
+      "vt. 监禁；拘留"
+    ],
+    "part_of_speech": [
+      "n.",
+      "vt."
+    ],
+    "example_sentence": "He was sent to jail.",
+    "level": "CET-6"
+  },
+  {
+    "word": "jam",
+    "phonetic": "/dʒæm/",
+    "definitions": [
+      "n. 果酱；堵塞",
+      "v. 堵塞；卡住"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Traffic jam.",
+    "level": "CET-6"
+  },
+  {
+    "word": "jealous",
+    "phonetic": "/ˈdʒeləs/",
+    "definitions": [
+      "adj. 嫉妒的；羡慕的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Don't be jealous.",
+    "level": "CET-6"
+  },
+  {
+    "word": "jewel",
+    "phonetic": "/ˈdʒuːəl/",
+    "definitions": [
+      "n. 宝石；珠宝"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "The crown is set with jewels.",
+    "level": "CET-6"
+  },
+  {
+    "word": "job",
+    "phonetic": "/dʒɒb/",
+    "definitions": [
+      "n. 工作；职业；职位"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Find a job.",
+    "level": "CET-6"
+  },
+  {
+    "word": "join",
+    "phonetic": "/dʒɔɪn/",
+    "definitions": [
+      "v. 加入；连接；参加"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Join the club.",
+    "level": "CET-6"
+  },
+  {
+    "word": "joint",
+    "phonetic": "/dʒɔɪnt/",
+    "definitions": [
+      "adj. 共同的；联合的",
+      "n. 关节；连接处"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Joint effort.",
+    "level": "CET-6"
+  },
+  {
+    "word": "joke",
+    "phonetic": "/dʒəʊk/",
+    "definitions": [
+      "n. 笑话；玩笑",
+      "v. 开玩笑"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Tell a joke.",
+    "level": "CET-6"
+  },
+  {
+    "word": "journal",
+    "phonetic": "/ˈdʒɜːrnl/",
+    "definitions": [
+      "n. 期刊；日记；日报"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Scientific journal.",
+    "level": "CET-6"
+  },
+  {
+    "word": "journey",
+    "phonetic": "/ˈdʒɜːrni/",
+    "definitions": [
+      "n. 旅程；旅行",
+      "v. 旅行"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Long journey.",
+    "level": "CET-6"
+  },
+  {
+    "word": "judge",
+    "phonetic": "/dʒʌdʒ/",
+    "definitions": [
+      "n. 法官；裁判；鉴赏家",
+      "v. 判断；裁决"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Judge not.",
+    "level": "CET-6"
+  },
+  {
+    "word": "judgment",
+    "phonetic": "/ˈdʒʌdʒmənt/",
+    "definitions": [
+      "n. 判断；裁判；判决"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Good judgment.",
+    "level": "CET-6"
+  },
+  {
+    "word": "juice",
+    "phonetic": "/dʒuːs/",
+    "definitions": [
+      "n. 果汁；汁液"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Orange juice.",
+    "level": "CET-6"
+  },
+  {
+    "word": "jump",
+    "phonetic": "/dʒʌmp/",
+    "definitions": [
+      "v. 跳；跳跃；暴涨",
+      "n. 跳跃；猛增"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Jump over.",
+    "level": "CET-6"
+  },
+  {
+    "word": "jury",
+    "phonetic": "/ˈdʒʊri/",
+    "definitions": [
+      "n. 陪审团；评审团"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "The jury found him guilty.",
+    "level": "CET-6"
+  },
+  {
+    "word": "just",
+    "phonetic": "/dʒʌst/",
+    "definitions": [
+      "adj. 公正的；公平的",
+      "adv. 仅仅；刚刚"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Just do it.",
+    "level": "CET-6"
+  },
+  {
+    "word": "justice",
+    "phonetic": "/ˈdʒʌstɪs/",
+    "definitions": [
+      "n. 正义；公正；司法"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Justice is blind.",
+    "level": "CET-6"
+  },
+  {
+    "word": "keen",
+    "phonetic": "/kiːn/",
+    "definitions": [
+      "adj. 敏锐的；热心的；锋利的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Keen interest.",
+    "level": "CET-6"
+  },
+  {
+    "word": "keep",
+    "phonetic": "/kiːp/",
+    "definitions": [
+      "v. 保持；保存；经营"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Keep going.",
+    "level": "CET-6"
+  },
+  {
+    "word": "key",
+    "phonetic": "/kiː/",
+    "definitions": [
+      "n. 钥匙；关键；答案",
+      "adj. 关键的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Key point.",
+    "level": "CET-6"
+  },
+  {
+    "word": "kick",
+    "phonetic": "/kɪk/",
+    "definitions": [
+      "v. 踢；踹；反对",
+      "n. 踢；快感"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Kick the ball.",
+    "level": "CET-6"
+  },
+  {
+    "word": "kid",
+    "phonetic": "/kɪd/",
+    "definitions": [
+      "n. 小孩；年轻人",
+      "v. 开玩笑"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Don't kid me.",
+    "level": "CET-6"
+  },
+  {
+    "word": "kill",
+    "phonetic": "/kɪl/",
+    "definitions": [
+      "v. 杀死；扼杀；消磨",
+      "n. 屠杀"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Kill time.",
+    "level": "CET-6"
+  },
+  {
+    "word": "kind",
+    "phonetic": "/kaɪnd/",
+    "definitions": [
+      "adj. 善良的；亲切的",
+      "n. 种类"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "n."
+    ],
+    "example_sentence": "Kind words.",
+    "level": "CET-6"
+  },
+  {
+    "word": "king",
+    "phonetic": "/kɪŋ/",
+    "definitions": [
+      "n. 国王；君主"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "King of the jungle.",
+    "level": "CET-6"
+  },
+  {
+    "word": "kit",
+    "phonetic": "/kɪt/",
+    "definitions": [
+      "n. 工具包；装备；配套元件"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "First aid kit.",
+    "level": "CET-6"
+  },
+  {
+    "word": "kitchen",
+    "phonetic": "/ˈkɪtʃɪn/",
+    "definitions": [
+      "n. 厨房"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "In the kitchen.",
+    "level": "CET-6"
+  },
+  {
+    "word": "knife",
+    "phonetic": "/naɪf/",
+    "definitions": [
+      "n. 刀；匕首"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Sharp knife.",
+    "level": "CET-6"
+  },
+  {
+    "word": "knock",
+    "phonetic": "/nɒk/",
+    "definitions": [
+      "v. 敲；打；碰撞",
+      "n. 敲击；敲门声"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Knock on the door.",
+    "level": "CET-6"
+  },
+  {
+    "word": "know",
+    "phonetic": "/noʊ/",
+    "definitions": [
+      "v. 知道；了解；认识"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "I know.",
+    "level": "CET-6"
+  },
+  {
+    "word": "knowledge",
+    "phonetic": "/ˈnɒlɪdʒ/",
+    "definitions": [
+      "n. 知识；学问；了解"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Knowledge is power.",
+    "level": "CET-6"
+  },
+  {
+    "word": "label",
+    "phonetic": "/ˈleɪbl/",
+    "definitions": [
+      "n. 标签；商标；称号",
+      "vt. 贴标签；分类"
+    ],
+    "part_of_speech": [
+      "n.",
+      "vt."
+    ],
+    "example_sentence": "Read the label.",
+    "level": "CET-6"
+  },
+  {
+    "word": "labor",
+    "phonetic": "/ˈleɪbər/",
+    "definitions": [
+      "n. 劳动；劳工；工作",
+      "v. 劳动；努力"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Manual labor.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lack",
+    "phonetic": "/læk/",
+    "definitions": [
+      "n. 缺乏；不足",
+      "v. 缺乏；不足"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Lack of time.",
+    "level": "CET-6"
+  },
+  {
+    "word": "ladder",
+    "phonetic": "/ˈlædər/",
+    "definitions": [
+      "n. 梯子；阶梯"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Climb the ladder.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lady",
+    "phonetic": "/ˈleɪdi/",
+    "definitions": [
+      "n. 女士；夫人"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Lady and gentleman.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lake",
+    "phonetic": "/leɪk/",
+    "definitions": [
+      "n. 湖；湖泊"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Beautiful lake.",
+    "level": "CET-6"
+  },
+  {
+    "word": "land",
+    "phonetic": "/lænd/",
+    "definitions": [
+      "n. 土地；陆地；国土",
+      "v. 着陆；登陆"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Land the plane.",
+    "level": "CET-6"
+  },
+  {
+    "word": "language",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "definitions": [
+      "n. 语言；文字；表达"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Foreign language.",
+    "level": "CET-6"
+  },
+  {
+    "word": "large",
+    "phonetic": "/lɑːrdʒ/",
+    "definitions": [
+      "adj. 大的；巨大的；大量的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Large scale.",
+    "level": "CET-6"
+  },
+  {
+    "word": "last",
+    "phonetic": "/lɑːst/",
+    "definitions": [
+      "adj. 最后的；最近的",
+      "v. 持续；维持"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "v."
+    ],
+    "example_sentence": "Last chance.",
+    "level": "CET-6"
+  },
+  {
+    "word": "late",
+    "phonetic": "/leɪt/",
+    "definitions": [
+      "adj. 晚的；迟的；已故的",
+      "adv. 晚；迟"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Better late than never.",
+    "level": "CET-6"
+  },
+  {
+    "word": "laugh",
+    "phonetic": "/læf/",
+    "definitions": [
+      "v. 笑；嘲笑",
+      "n. 笑；笑声"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Laugh out loud.",
+    "level": "CET-6"
+  },
+  {
+    "word": "law",
+    "phonetic": "/lɔː/",
+    "definitions": [
+      "n. 法律；规律；法则"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Rule of law.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lay",
+    "phonetic": "/leɪ/",
+    "definitions": [
+      "v. 放置；铺设；产卵"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Lay the foundation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lead",
+    "phonetic": "/liːd/",
+    "definitions": [
+      "v. 领导；引导；导致",
+      "n. 领导；铅"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Lead the way.",
+    "level": "CET-6"
+  },
+  {
+    "word": "leader",
+    "phonetic": "/ˈliːdər/",
+    "definitions": [
+      "n. 领导者；领袖；首领"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Great leader.",
+    "level": "CET-6"
+  },
+  {
+    "word": "leadership",
+    "phonetic": "/ˈliːdərʃɪp/",
+    "definitions": [
+      "n. 领导；领导能力；领导层"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Strong leadership.",
+    "level": "CET-6"
+  },
+  {
+    "word": "leaf",
+    "phonetic": "/liːf/",
+    "definitions": [
+      "n. 叶子；页",
+      "v. 翻页"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Turn over a new leaf.",
+    "level": "CET-6"
+  },
+  {
+    "word": "learn",
+    "phonetic": "/lɜːrn/",
+    "definitions": [
+      "v. 学习；学会；得知"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Learn by doing.",
+    "level": "CET-6"
+  },
+  {
+    "word": "learning",
+    "phonetic": "/ˈlɜːrnɪŋ/",
+    "definitions": [
+      "n. 学习；学问",
+      "adj. 学习的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Life-long learning.",
+    "level": "CET-6"
+  },
+  {
+    "word": "least",
+    "phonetic": "/liːst/",
+    "definitions": [
+      "adj./adv. 最少的；最小的"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "At least.",
+    "level": "CET-6"
+  },
+  {
+    "word": "leave",
+    "phonetic": "/liːv/",
+    "definitions": [
+      "v. 离开；留下；遗忘"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Leave now.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lecture",
+    "phonetic": "/ˈlektʃər/",
+    "definitions": [
+      "n. 讲座；讲课；训斥",
+      "v. 讲课；训斥"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Attend a lecture.",
+    "level": "CET-6"
+  },
+  {
+    "word": "legal",
+    "phonetic": "/ˈliːɡl/",
+    "definitions": [
+      "adj. 法律的；合法的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Legal rights.",
+    "level": "CET-6"
+  },
+  {
+    "word": "legend",
+    "phonetic": "/ˈledʒənd/",
+    "definitions": [
+      "n. 传说；传奇；图例"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Urban legend.",
+    "level": "CET-6"
+  },
+  {
+    "word": "legislation",
+    "phonetic": "/ˌledʒɪˈsleɪʃn/",
+    "definitions": [
+      "n. 立法；法律；法规"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "New legislation.",
+    "level": "CET-6"
+  },
+  {
+    "word": "legitimate",
+    "phonetic": "/lɪˈdʒɪtɪmət/",
+    "definitions": [
+      "adj. 合法的；正当的；正统的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Legitimate business.",
+    "level": "CET-6"
+  },
+  {
+    "word": "leisure",
+    "phonetic": "/ˈliːʒər/",
+    "definitions": [
+      "n. 闲暇；空闲；悠闲"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Leisure time.",
+    "level": "CET-6"
+  },
+  {
+    "word": "length",
+    "phonetic": "/leŋθ/",
+    "definitions": [
+      "n. 长度；长度单位；时间长度"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Full length.",
+    "level": "CET-6"
+  },
+  {
+    "word": "less",
+    "phonetic": "/les/",
+    "definitions": [
+      "adj./adv. 较少的；更少的"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Less is more.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lesson",
+    "phonetic": "/ˈlesn/",
+    "definitions": [
+      "n. 课；课程；教训"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Learn a lesson.",
+    "level": "CET-6"
+  },
+  {
+    "word": "let",
+    "phonetic": "/let/",
+    "definitions": [
+      "v. 让；允许；出租"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Let me see.",
+    "level": "CET-6"
+  },
+  {
+    "word": "letter",
+    "phonetic": "/ˈletər/",
+    "definitions": [
+      "n. 信；字母；文字"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Write a letter.",
+    "level": "CET-6"
+  },
+  {
+    "word": "level",
+    "phonetic": "/ˈlevl/",
+    "definitions": [
+      "n. 水平；级别；程度",
+      "adj. 水平的；同等的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "High level.",
+    "level": "CET-6"
+  },
+  {
+    "word": "liberal",
+    "phonetic": "/ˈlɪbərəl/",
+    "definitions": [
+      "adj. 自由的；开明的；慷慨的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Liberal arts.",
+    "level": "CET-6"
+  },
+  {
+    "word": "liberty",
+    "phonetic": "/ˈlɪbərti/",
+    "definitions": [
+      "n. 自由；自由权；许可"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Civil liberties.",
+    "level": "CET-6"
+  },
+  {
+    "word": "library",
+    "phonetic": "/ˈlaɪbreri/",
+    "definitions": [
+      "n. 图书馆；藏书室"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Go to the library.",
+    "level": "CET-6"
+  },
+  {
+    "word": "license",
+    "phonetic": "/ˈlaɪsns/",
+    "definitions": [
+      "n. 许可证；执照",
+      "vt. 许可；批准"
+    ],
+    "part_of_speech": [
+      "n.",
+      "vt."
+    ],
+    "example_sentence": "Driver's license.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lie",
+    "phonetic": "/laɪ/",
+    "definitions": [
+      "v. 躺；说谎；位于",
+      "n. 谎言"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Tell a lie.",
+    "level": "CET-6"
+  },
+  {
+    "word": "life",
+    "phonetic": "/laɪf/",
+    "definitions": [
+      "n. 生命；生活；一生"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Life is short.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lift",
+    "phonetic": "/lɪft/",
+    "definitions": [
+      "v. 举起；提升；抬起",
+      "n. 电梯；举起"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Take the lift.",
+    "level": "CET-6"
+  },
+  {
+    "word": "light",
+    "phonetic": "/laɪt/",
+    "definitions": [
+      "n. 光；灯；光线",
+      "adj. 轻的；明亮的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Turn on the light.",
+    "level": "CET-6"
+  },
+  {
+    "word": "like",
+    "phonetic": "/laɪk/",
+    "definitions": [
+      "v. 喜欢；像；想要",
+      "prep. 像；如同"
+    ],
+    "part_of_speech": [
+      "v.",
+      "prep."
+    ],
+    "example_sentence": "I like it.",
+    "level": "CET-6"
+  },
+  {
+    "word": "likely",
+    "phonetic": "/ˈlaɪkli/",
+    "definitions": [
+      "adj. 可能的；预料的",
+      "adv. 很可能"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Most likely.",
+    "level": "CET-6"
+  },
+  {
+    "word": "limit",
+    "phonetic": "/ˈlɪmɪt/",
+    "definitions": [
+      "n. 限制；极限；界限",
+      "vt. 限制；限定"
+    ],
+    "part_of_speech": [
+      "n.",
+      "vt."
+    ],
+    "example_sentence": "Speed limit.",
+    "level": "CET-6"
+  },
+  {
+    "word": "limitation",
+    "phonetic": "/ˌlɪmɪˈteɪʃn/",
+    "definitions": [
+      "n. 限制；局限；缺陷"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Know your limitations.",
+    "level": "CET-6"
+  },
+  {
+    "word": "limited",
+    "phonetic": "/ˈlɪmɪtɪd/",
+    "definitions": [
+      "adj. 有限的；受限的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Limited time offer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "line",
+    "phonetic": "/laɪn/",
+    "definitions": [
+      "n. 线；线条；线路",
+      "v. 排队；划线"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Stand in line.",
+    "level": "CET-6"
+  },
+  {
+    "word": "link",
+    "phonetic": "/lɪŋk/",
+    "definitions": [
+      "n. 链接；联系；环节",
+      "v. 链接；连接"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Link together.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lion",
+    "phonetic": "/ˈlaɪən/",
+    "definitions": [
+      "n. 狮子"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "King lion.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lip",
+    "phonetic": "/lɪp/",
+    "definitions": [
+      "n. 嘴唇；边缘"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Lip service.",
+    "level": "CET-6"
+  },
+  {
+    "word": "liquid",
+    "phonetic": "/ˈlɪkwɪd/",
+    "definitions": [
+      "n. 液体",
+      "adj. 液体的；流动的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Liquid assets.",
+    "level": "CET-6"
+  },
+  {
+    "word": "list",
+    "phonetic": "/lɪst/",
+    "definitions": [
+      "n. 列表；清单；名单",
+      "v. 列出；列举"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Shopping list.",
+    "level": "CET-6"
+  },
+  {
+    "word": "literature",
+    "phonetic": "/ˈlɪtərətʃər/",
+    "definitions": [
+      "n. 文学；文献；著作"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "English literature.",
+    "level": "CET-6"
+  },
+  {
+    "word": "live",
+    "phonetic": "/lɪv/",
+    "definitions": [
+      "v. 生活；居住；生存",
+      "adj. 活的；现场的"
+    ],
+    "part_of_speech": [
+      "v.",
+      "adj."
+    ],
+    "example_sentence": "Live life to the fullest.",
+    "level": "CET-6"
+  },
+  {
+    "word": "living",
+    "phonetic": "/ˈlɪvɪŋ/",
+    "definitions": [
+      "n. 生活；生计",
+      "adj. 活的；现存的"
+    ],
+    "part_of_speech": [
+      "n.",
+      "adj."
+    ],
+    "example_sentence": "Make a living.",
+    "level": "CET-6"
+  },
+  {
+    "word": "load",
+    "phonetic": "/loʊd/",
+    "definitions": [
+      "n. 负载；负荷；工作量",
+      "v. 装载；加载"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Heavy load.",
+    "level": "CET-6"
+  },
+  {
+    "word": "loan",
+    "phonetic": "/loʊn/",
+    "definitions": [
+      "n. 贷款；借款",
+      "v. 贷款；借出"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Bank loan.",
+    "level": "CET-6"
+  },
+  {
+    "word": "local",
+    "phonetic": "/ˈloʊkl/",
+    "definitions": [
+      "adj. 本地的；当地的；局部的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Local news.",
+    "level": "CET-6"
+  },
+  {
+    "word": "locate",
+    "phonetic": "/ˈloʊkeɪt/",
+    "definitions": [
+      "vt. 定位；找到；位于"
+    ],
+    "part_of_speech": [
+      "vt."
+    ],
+    "example_sentence": "Locate the source.",
+    "level": "CET-6"
+  },
+  {
+    "word": "location",
+    "phonetic": "/loʊˈkeɪʃn/",
+    "definitions": [
+      "n. 位置；地点；场所"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Perfect location.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lock",
+    "phonetic": "/lɒk/",
+    "definitions": [
+      "n. 锁；锁定",
+      "v. 锁；锁住"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "Lock the door.",
+    "level": "CET-6"
+  },
+  {
+    "word": "log",
+    "phonetic": "/lɒɡ/",
+    "definitions": [
+      "n. 日志；原木；记录",
+      "v. 记录；登录"
+    ],
+    "part_of_speech": [
+      "n.",
+      "v."
+    ],
+    "example_sentence": "System log.",
+    "level": "CET-6"
+  },
+  {
+    "word": "logic",
+    "phonetic": "/ˈlɒdʒɪk/",
+    "definitions": [
+      "n. 逻辑；逻辑学；逻辑性"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Sound logic.",
+    "level": "CET-6"
+  },
+  {
+    "word": "logical",
+    "phonetic": "/ˈlɒdʒɪkl/",
+    "definitions": [
+      "adj. 逻辑的；合乎逻辑的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Logical reasoning.",
+    "level": "CET-6"
+  },
+  {
+    "word": "long",
+    "phonetic": "/lɒŋ/",
+    "definitions": [
+      "adj. 长的；长期的",
+      "adv. 长久地"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Long time no see.",
+    "level": "CET-6"
+  },
+  {
+    "word": "look",
+    "phonetic": "/lʊk/",
+    "definitions": [
+      "v. 看；看起来；寻找",
+      "n. 看；表情"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "Look at this.",
+    "level": "CET-6"
+  },
+  {
+    "word": "loose",
+    "phonetic": "/luːs/",
+    "definitions": [
+      "adj. 宽松的；松散的；不牢固的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Loose fitting.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lose",
+    "phonetic": "/luːz/",
+    "definitions": [
+      "v. 失去；丢失；输掉"
+    ],
+    "part_of_speech": [
+      "v."
+    ],
+    "example_sentence": "Don't lose hope.",
+    "level": "CET-6"
+  },
+  {
+    "word": "loss",
+    "phonetic": "/lɒs/",
+    "definitions": [
+      "n. 损失；丢失；失败"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Suffer a loss.",
+    "level": "CET-6"
+  },
+  {
+    "word": "lot",
+    "phonetic": "/lɒt/",
+    "definitions": [
+      "n. 许多；大量；抽签"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "A lot of people.",
+    "level": "CET-6"
+  },
+  {
+    "word": "loud",
+    "phonetic": "/laʊd/",
+    "definitions": [
+      "adj. 大声的；响亮的",
+      "adv. 大声地"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Loud noise.",
+    "level": "CET-6"
+  },
+  {
+    "word": "love",
+    "phonetic": "/lʌv/",
+    "definitions": [
+      "v. 爱；热爱；喜欢",
+      "n. 爱；爱情"
+    ],
+    "part_of_speech": [
+      "v.",
+      "n."
+    ],
+    "example_sentence": "I love you.",
+    "level": "CET-6"
+  },
+  {
+    "word": "low",
+    "phonetic": "/loʊ/",
+    "definitions": [
+      "adj. 低的；矮的；低下的",
+      "adv. 低地"
+    ],
+    "part_of_speech": [
+      "adj.",
+      "adv."
+    ],
+    "example_sentence": "Low price.",
+    "level": "CET-6"
+  },
+  {
+    "word": "loyal",
+    "phonetic": "/ˈlɔɪəl/",
+    "definitions": [
+      "adj. 忠诚的；忠心的"
+    ],
+    "part_of_speech": [
+      "adj."
+    ],
+    "example_sentence": "Loyal customer.",
+    "level": "CET-6"
+  },
+  {
+    "word": "loyalty",
+    "phonetic": "/ˈlɔɪəlti/",
+    "definitions": [
+      "n. 忠诚；忠心；忠实"
+    ],
+    "part_of_speech": [
+      "n."
+    ],
+    "example_sentence": "Show loyalty.",
+    "level": "CET-6"
+  }
+]
